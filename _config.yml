@@ -3,7 +3,7 @@ title:               5e українською
 tagline:             'Довідник з правил 5e'
 description:         'Переклад <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Source Reference Document</a> на основі <a href="https://en.wikipedia.org/wiki/Open_Game_License" target="_blank">Open Game License v.1.0a</a>.'
 url:                 ''
-baseurl:             '/jekyll_docs_theme'
+baseurl:             '/jekyll_canyon_theme'
 host:                0.0.0.0
 #paginate:            5
 #permalink:           pretty
