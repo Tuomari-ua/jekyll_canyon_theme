@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Robe of Stars
 type: item
-
-# Robe of Stars 
+title: Robe of Stars 
+---
 _Wondrous item, very rare (requires attunement)_ 
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.

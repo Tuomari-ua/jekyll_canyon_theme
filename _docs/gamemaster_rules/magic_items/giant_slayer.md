@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Giant Slayer
 type: weapon
-
-# Giant Slayer 
+title: Giant Slayer 
+---
 _Weapon (any axe or sword), rare_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

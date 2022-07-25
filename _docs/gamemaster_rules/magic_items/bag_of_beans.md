@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Bag of Beans
 type: item
-
-# Bag of Beans 
+title: Bag of Beans 
+---
 _Wondrous item, rare_ 
 
 Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.

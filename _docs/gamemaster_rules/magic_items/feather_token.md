@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Feather Token
 type: item
-
-# Feather Token 
+title: Feather Token 
+---
 _Wondrous item, rare_ 
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly. 

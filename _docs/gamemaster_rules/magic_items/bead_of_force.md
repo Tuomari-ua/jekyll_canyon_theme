@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Bead of Force
 type: item
-
-# Bead of Force 
+title: Bead of Force 
+---
 _Wondrous item, rare_ 
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 **beads of force** are found together.

@@ -1,4 +1,4 @@
 ---
-layout: page_classlist
+layout: spells_classlist
 title: Чари за класами
 ---

@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Ring of Shooting Stars
 type: ring
-
-# Ring of Shooting Stars 
+title: Ring of Shooting Stars 
+---
 _Ring, very rare (requires attunement outdoors at night)_ 
 
 While wearing this ring in dim light or darkness, you can cast **_dancing lights_** and **_light_** from the ring at will. Casting either spell from the ring requires an action.

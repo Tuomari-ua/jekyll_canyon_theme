@@ -1,4 +1,4 @@
 ---
-layout: page_namelist
+layout: spells_namelist
 title: Чари за алфавітом
 ---

@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Decanter of Endless Water
 type: item
-
-# Decanter of Endless Water 
+title: Decanter of Endless Water 
+---
 _Wondrous item, uncommon_ 
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.

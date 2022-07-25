@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Berserker Axe
 type: weapon
-
-# Berserker Axe 
+title: Berserker Axe 
+---
 _Weapon (any axe), rare (requires attunement)_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.

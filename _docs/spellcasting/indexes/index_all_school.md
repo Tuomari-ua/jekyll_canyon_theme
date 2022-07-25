@@ -1,4 +1,4 @@
 ---
-layout: page_schoollist
+layout: spells_schoollist
 title: Чари за школами
 ---

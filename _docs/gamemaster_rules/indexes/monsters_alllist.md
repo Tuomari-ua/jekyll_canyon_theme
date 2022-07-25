@@ -1,4 +1,4 @@
 ---
-layout: page_namelist_monsters
+layout: monsters_namelist
 title: Монстри за алфавітом
 ---

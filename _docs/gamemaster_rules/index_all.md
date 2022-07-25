@@ -17,14 +17,14 @@ title: Правила майстра
 
 ## Списки магічних предметів
 
-* [За іменем]({{site.baseurl}}/docs/gamemaster_rules/items_alllist.html)
-* [За типом]({{site.baseurl}}/docs/gamemaster_rules/items_typelist.html)
+* [За іменем]({{site.baseurl}}/docs/gamemaster_rules/indexes/items_alllist.html)
+* [За типом]({{site.baseurl}}/docs/gamemaster_rules/indexes/items_typelist.html)
 
 ## Списки монстрів
 
-* [За іменем]({{site.baseurl}}/docs/gamemaster_rules/monsters_alllist.html)
-* [За типом]({{site.baseurl}}/docs/gamemaster_rules/monsters_typelist.html)
-* [За CR]({{site.baseurl}}/docs/gamemaster_rules/monsters_crlist.html)
+* [За іменем]({{site.baseurl}}/docs/gamemaster_rules/indexes/monsters_alllist.html)
+* [За типом]({{site.baseurl}}/docs/gamemaster_rules/indexes/monsters_typelist.html)
+* [За CR]({{site.baseurl}}/docs/gamemaster_rules/indexes/monsters_crlist.html)
 
 ## Templates
 

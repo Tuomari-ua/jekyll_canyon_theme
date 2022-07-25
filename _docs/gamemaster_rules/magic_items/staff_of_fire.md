@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Staff of Fire
 type: staff
-
-# Staff of Fire 
+title: Staff of Fire 
+---
 _Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)_ 
 
 You have resistance to fire damage while you hold this staff.

@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Bag of Tricks
 type: item
-
-# Bag of Tricks 
+title: Bag of Tricks 
+---
 _Wondrous item, uncommon_ 
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.

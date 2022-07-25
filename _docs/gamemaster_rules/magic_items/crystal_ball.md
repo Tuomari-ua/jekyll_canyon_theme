@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Crystal Ball
 type: item
-
-# Crystal Ball 
+title: Crystal Ball 
+---
 _Wondrous item, very rare or legendary (requires attunement)_ 
 
 The typical **crystal ball**, a very rare item, is about 6 inches in diameter. While touching it, you can cast the **_scrying_** spell (save DC 17) with it.

@@ -1,7 +1,10 @@
+---
+category: items
+layout: page
 name: Rod of Alertness
 type: rod
-
-# Rod of Alertness 
+title: Rod of Alertness 
+---
 _Rod, very rare (requires attunement)_ 
 
 This rod has a flanged head and the following properties.
