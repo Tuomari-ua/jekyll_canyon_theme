@@ -23,6 +23,13 @@ version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 
 # Collections
+collections_dir: 5esrd
 collections:
   docs:
+    output: true
+  items:
+    output: true
+  monsters:
+    output: true
+  spells:
     output: true

@@ -6,7 +6,7 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.category == "spells" -%}

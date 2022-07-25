@@ -6,7 +6,7 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
             <h2 id="бард">Бард</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "bard" -%}
@@ -16,7 +16,7 @@ layout: default
             </ul>
 
             <h2 id="відьмак">Відьмак</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "warlock" -%}
@@ -26,7 +26,7 @@ layout: default
             </ul>
 
             <h2 id="клірик">Клірик</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "cleric" -%}
@@ -36,7 +36,7 @@ layout: default
             </ul>
 
             <h2 id="друїд">Друїд</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "druid" -%}
@@ -46,7 +46,7 @@ layout: default
             </ul>
 
             <h2 id="паладин">Паладин</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "paladin" -%}
@@ -56,7 +56,7 @@ layout: default
             </ul>
 
             <h2 id="рейнджер">Рейнджер</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "ranger" -%}
@@ -66,7 +66,7 @@ layout: default
             </ul>
 
             <h2 id="чародій">Чародій</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "sorcerer" -%}
@@ -76,7 +76,7 @@ layout: default
             </ul>
 
             <h2 id="чарівник">Чарівник</h2>
-            {% assign sortedPosts = site.docs | sort: 'title' %}
+            {% assign sortedPosts = site.spells | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.classes contains "wizard" -%}
