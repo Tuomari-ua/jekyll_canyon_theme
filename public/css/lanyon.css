@@ -48,33 +48,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: bold;
   letter-spacing: -.025rem;
-}
-
-h1 {
-  color: #4e1414;
-}
-
-h2 {
-  color: #8c2424;
+  color: #313131;
 }
 
 h3 {
-  color: #bb3030;
   margin: 0 10px;
 }
 
 h4 {
-  color: #d35353;
   margin: 0 20px;
   font-style: italic;
-}
-
-h5 {
-  color: #313131;
-}
-
-h6 {
-  color: #313131;
 }
 
 /*
@@ -472,6 +455,18 @@ a.pagination-item:hover {
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
+.theme-base-08 h1 {
+  color: #4e1414;
+}
+.theme-base-08 h2 {
+  color: #8c2424;
+}
+.theme-base-08 h3 {
+  color: #bb3030;
+}
+.theme-base-08 h4 {
+  color: #d35353;
+}
 
 /* Orange */
 .theme-base-09 .sidebar,
@@ -507,6 +502,18 @@ a.pagination-item:hover {
 .theme-base-0b .sidebar-toggle,
 .theme-base-0b .related-posts li a:hover {
   color: #005522;
+}
+.theme-base-0b h1 {
+  color: #005522;
+}
+.theme-base-0b h2 {
+  color: #05692d;
+}
+.theme-base-0b h3 {
+  color: #069c42;
+}
+.theme-base-0b h4 {
+  color: #04c250;
 }
 
 /* Cyan */
