@@ -26,3 +26,5 @@ google_analytics_id: #UA-XXXX-Y
 collections:
   docs:
     output: true
+  test:
+    output: true
