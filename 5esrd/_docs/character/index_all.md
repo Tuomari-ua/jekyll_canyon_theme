@@ -15,7 +15,7 @@ title: Персонаж
 * [Клірик]({{site.baseurl}}/docs/character/classes/cleric.html)
 * [Друїд]({{site.baseurl}}/docs/character/classes/druid.html)
 * [Боєць]({{site.baseurl}}/docs/character/classes/fighter.html)
-* [Понах]({{site.baseurl}}/docs/character/classes/monk.html)
+* [Монах]({{site.baseurl}}/docs/character/classes/monk.html)
 * [Паладин]({{site.baseurl}}/docs/character/classes/paladin.html)
 * [Рейнджер]({{site.baseurl}}/docs/character/classes/ranger.html)
 * [Пройдисвіт]({{site.baseurl}}/docs/character/classes/rogue.html)
