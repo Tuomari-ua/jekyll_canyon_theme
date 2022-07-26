@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Bard
+classes: bard
          cleric
          druid
 title: Healing Word 

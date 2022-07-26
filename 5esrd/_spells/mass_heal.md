@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Cleric
+classes: cleric
 title: Mass Heal 
 ---
 _9th-level evocation_ 

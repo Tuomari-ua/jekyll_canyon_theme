@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Wizard
+classes: wizard
 title: Phantasmal Killer 
 ---
 _4th-level illusion_ 

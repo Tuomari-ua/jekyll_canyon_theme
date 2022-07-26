@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Wizard
+classes: wizard
 title: Simulacrum 
 ---
 _7th-level illusion_ 

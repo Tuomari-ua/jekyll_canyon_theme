@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Cleric
+classes: cleric
 title: Augury 
 ---
 _2nd-level divination (ritual)_   

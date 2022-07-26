@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Cleric
+classes: cleric
          druid
          paladin
          ranger

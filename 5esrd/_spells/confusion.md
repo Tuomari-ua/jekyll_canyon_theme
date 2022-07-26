@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
-classes: Bard
+classes: bard
          druid
          sorcerer
          wizard

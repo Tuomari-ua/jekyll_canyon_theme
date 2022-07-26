@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Cleric
+classes: cleric
          paladin
 title: Shield of Faith 
 ---

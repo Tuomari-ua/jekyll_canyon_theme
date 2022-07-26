@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Warlock
+classes: warlock
          wizard
 title: Flesh to Stone 
 ---

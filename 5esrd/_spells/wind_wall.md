@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Druid
+classes: druid
          ranger
 title: Wind Wall 
 ---

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Sorcerer
+classes: sorcerer
          wizard
 title: Fire Bolt 
 ---

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Wizard
+classes: wizard
 title: Clone 
 ---
 _8th-level necromancy_ 

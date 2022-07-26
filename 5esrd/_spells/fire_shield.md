@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Wizard
+classes: wizard
 title: Fire Shield 
 ---
 _4th-level evocation_ 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Cleric
+classes: cleric
 title: Spirit Guardians 
 ---
 _3rd-level conjuration_ 

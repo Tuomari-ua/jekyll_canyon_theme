@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Wizard
+classes: wizard
 title: Sequester 
 ---
 _7th-level transmutation_ 

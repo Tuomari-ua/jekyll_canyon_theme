@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Druid
+classes: druid
 title: Flame Blade 
 ---
 _2nd-level evocation_ 

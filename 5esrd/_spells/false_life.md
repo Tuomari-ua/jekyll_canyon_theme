@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Sorcerer
+classes: sorcerer
          wizard
 title: False Life 
 ---

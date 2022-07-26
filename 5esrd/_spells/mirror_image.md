@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Sorcerer
+classes: sorcerer
          warlock
          wizard
 title: Mirror Image 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Wizard
+classes: wizard
 title: Freezing Sphere 
 ---
 _6th-level evocation_ 

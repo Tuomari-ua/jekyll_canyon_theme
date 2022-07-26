@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Sorcerer
+classes: sorcerer
          warlock
          wizard
 title: Counterspell 

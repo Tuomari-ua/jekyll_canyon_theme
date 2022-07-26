@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Wizard
+classes: wizard
 title: Private Sanctum 
 ---
 _4th-level abjuration_ 

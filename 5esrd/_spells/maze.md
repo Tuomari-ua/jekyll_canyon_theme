@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Wizard
+classes: wizard
 title: Maze 
 ---
 _8th-level conjuration_ 

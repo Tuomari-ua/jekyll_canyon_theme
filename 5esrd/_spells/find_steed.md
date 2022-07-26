@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Paladin
+classes: paladin
 title: Find Steed 
 ---
 _2nd-level conjuration_ 

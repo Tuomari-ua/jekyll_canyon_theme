@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Cleric
+classes: cleric
 title: Flame Strike 
 ---
 _5th-level evocation_ 

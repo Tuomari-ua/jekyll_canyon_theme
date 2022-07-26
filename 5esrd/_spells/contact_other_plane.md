@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Warlock
+classes: warlock
          wizard
 title: Contact Other Plane 
 ---

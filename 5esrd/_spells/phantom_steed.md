@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Wizard
+classes: wizard
 title: Phantom Steed 
 ---
 _3rd-level illusion (ritual)_ 

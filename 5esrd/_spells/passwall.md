@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Wizard
+classes: wizard
 title: Passwall 
 ---
 _5th-level transmutation_ 

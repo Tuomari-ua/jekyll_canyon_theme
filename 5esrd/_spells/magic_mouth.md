@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Bard
+classes: bard
          wizard
 title: Magic Mouth 
 ---

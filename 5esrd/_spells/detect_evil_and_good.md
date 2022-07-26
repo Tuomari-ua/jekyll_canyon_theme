@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Cleric
+classes: cleric
          paladin
 title: Detect Evil and Good 
 ---

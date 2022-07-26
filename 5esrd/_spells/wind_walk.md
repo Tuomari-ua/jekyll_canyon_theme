@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Druid
+classes: druid
 title: Wind Walk 
 ---
 _6th-level transmutation_ 

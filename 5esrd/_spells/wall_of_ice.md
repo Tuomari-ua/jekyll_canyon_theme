@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Wizard
+classes: wizard
 title: Wall of Ice 
 ---
 _6th-level evocation_ 

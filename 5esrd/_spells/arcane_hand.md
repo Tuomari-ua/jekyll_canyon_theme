@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Wizard
+classes: wizard
 title: Arcane Hand 
 ---
 _5th-level evocation_ 

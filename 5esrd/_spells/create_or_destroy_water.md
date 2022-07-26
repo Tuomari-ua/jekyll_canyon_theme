@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Cleric
+classes: cleric
          druid
 title: Create or Destroy Water 
 ---

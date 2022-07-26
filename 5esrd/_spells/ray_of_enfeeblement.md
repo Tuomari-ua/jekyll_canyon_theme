@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Warlock
+classes: warlock
          wizard
 title: Ray of Enfeeblement 
 ---

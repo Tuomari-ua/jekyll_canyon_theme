@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Wizard
+classes: wizard
 title: Floating Disk 
 ---
 _1st-level conjuration (ritual)_ 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Wizard
+classes: wizard
 title: Rope Trick 
 ---
 _2nd-level transmutation_ 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Druid
+classes: druid
 title: Transport via Plants 
 ---
 _6th-level conjuration_ 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Wizard
+classes: wizard
 title: Grease 
 ---
 _1st-level conjuration_ 

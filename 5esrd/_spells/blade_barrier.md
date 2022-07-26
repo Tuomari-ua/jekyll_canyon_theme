@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Cleric
+classes: cleric
 title: Blade Barrier 
 ---
 _6th-level evocation_ 

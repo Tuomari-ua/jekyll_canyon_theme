@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Sorcerer
+classes: sorcerer
          wizard
 title: Time Stop 
 ---

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Bard
+classes: bard
          warlock
          wizard
 title: True Polymorph 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Ranger
+classes: ranger
          wizard
 title: Alarm 
 ---

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Wizard
+classes: wizard
 title: Prismatic Wall 
 ---
 _9th-level abjuration_ 

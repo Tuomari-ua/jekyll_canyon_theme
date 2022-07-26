@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-classes: Cleric
+classes: cleric
 title: Thaumaturgy 
 ---
 _Transmutation cantrip_ 

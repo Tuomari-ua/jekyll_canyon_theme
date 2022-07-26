@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Warlock
+classes: warlock
 title: Hellish Rebuke 
 ---
 _1st-level evocation_ 

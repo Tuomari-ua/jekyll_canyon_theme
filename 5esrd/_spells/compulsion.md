@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
-classes: Bard
+classes: bard
 title: Compulsion 
 ---
 _4th-level enchantment_ 

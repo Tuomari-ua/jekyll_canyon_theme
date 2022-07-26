@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Bard
+classes: bard
          druid
          ranger
 title: Speak with Animals 

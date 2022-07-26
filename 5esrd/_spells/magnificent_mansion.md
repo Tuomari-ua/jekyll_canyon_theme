@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Bard
+classes: bard
          wizard
 title: Magnificent Mansion 
 ---

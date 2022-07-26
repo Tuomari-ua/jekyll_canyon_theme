@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Druid
+classes: druid
 title: Wall of Thorns 
 ---
 _6th-level conjuration_ 

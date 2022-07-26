@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Sorcerer
+classes: sorcerer
          warlock
          wizard
 title: Circle of Death 

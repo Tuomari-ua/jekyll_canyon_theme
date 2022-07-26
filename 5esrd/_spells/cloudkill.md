@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Sorcerer
+classes: sorcerer
          wizard
 title: Cloudkill 
 ---

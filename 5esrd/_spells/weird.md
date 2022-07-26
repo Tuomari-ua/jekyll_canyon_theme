@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Wizard
+classes: wizard
 title: Weird 
 ---
 _9th-level illusion_ 

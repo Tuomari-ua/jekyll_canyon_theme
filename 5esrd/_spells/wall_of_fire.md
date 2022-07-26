@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Druid
+classes: druid
          sorcerer
          wizard
 title: Wall of Fire 

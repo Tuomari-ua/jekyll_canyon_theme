@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Wizard
+classes: wizard
 title: Black Tentacles 
 ---
 _4th-level conjuration_ 

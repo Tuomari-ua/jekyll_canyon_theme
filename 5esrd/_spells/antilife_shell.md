@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Druid
+classes: druid
 title: Antilife Shell 
 ---
 _5th-level abjuration_ 

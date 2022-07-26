@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Bard
+classes: bard
          wizard
 title: Guards and Wards 
 ---

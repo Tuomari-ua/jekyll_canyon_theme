@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Cleric
+classes: cleric
 title: Conjure Celestial 
 ---
 _7th-level conjuration_ 

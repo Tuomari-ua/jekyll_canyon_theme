@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Wizard
+classes: wizard
 title: Magic Jar 
 ---
 _6th-level necromancy_ 

@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Cleric
+classes: cleric
 title: Warding Bond 
 ---
 _2nd-level abjuration_ 

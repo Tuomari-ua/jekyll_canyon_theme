@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Wizard
+classes: wizard
 title: Arcanist's Magic Aura 
 ---
 _2nd-level illusion_ 

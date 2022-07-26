@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Wizard
+classes: wizard
 title: Find Familiar 
 ---
 _1st-level conjuration (ritual)_ 

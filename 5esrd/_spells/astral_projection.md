@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
-classes: Cleric
+classes: cleric
          warlock
          wizard
 title: Astral Projection 

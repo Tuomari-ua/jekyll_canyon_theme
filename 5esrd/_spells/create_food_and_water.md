@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
-classes: Cleric
+classes: cleric
          paladin
 title: Create Food and Water 
 ---

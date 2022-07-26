@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Cleric
+classes: cleric
 title: Sacred Flame 
 ---
 _Evocation cantrip_ 

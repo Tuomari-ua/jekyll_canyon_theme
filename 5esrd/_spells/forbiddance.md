@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Cleric
+classes: cleric
 title: Forbiddance 
 ---
 _6th-level abjuration (ritual)_ 

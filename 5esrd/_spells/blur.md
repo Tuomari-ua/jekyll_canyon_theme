@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Sorcerer
+classes: sorcerer
          wizard
 title: Blur 
 ---

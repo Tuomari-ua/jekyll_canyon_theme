@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Wizard
+classes: wizard
 title: Telepathic Bond 
 ---
 _5th-level divination (ritual)_ 

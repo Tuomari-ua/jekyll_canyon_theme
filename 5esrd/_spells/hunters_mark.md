@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Ranger
+classes: ranger
 title: Hunter's Mark 
 ---
 _1st-level divination_ 

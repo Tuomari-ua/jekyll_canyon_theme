@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
-classes: Warlock
+classes: warlock
          wizard
 title: Imprisonment 
 ---

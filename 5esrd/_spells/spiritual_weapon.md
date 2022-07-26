@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-classes: Cleric
+classes: cleric
 title: Spiritual Weapon 
 ---
 _2nd-level evocation_ 

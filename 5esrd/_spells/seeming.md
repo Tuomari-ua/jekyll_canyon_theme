@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
-classes: Bard
+classes: bard
          sorcerer
          wizard
 title: Seeming 

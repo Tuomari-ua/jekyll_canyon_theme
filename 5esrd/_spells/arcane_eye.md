@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Divination
-classes: Wizard
+classes: wizard
 title: Arcane Eye 
 ---
 _4th-level divination_ 
