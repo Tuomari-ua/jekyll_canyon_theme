@@ -28,4 +28,4 @@ title: Правила майстра
 
 ## Templates
 
-* [Halfdragon Template]({{site.baseurl}}/docs/gamemaster_rules/templates/halfdragon_template/)
+* [Halfdragon Template]({{site.baseurl}}/docs/gamemaster_rules/templates/halfdragon_template.html/)
