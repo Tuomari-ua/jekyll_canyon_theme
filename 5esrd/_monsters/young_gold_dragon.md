@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Gold Dragon
+type: Dragon
 tag: 10
-
-title: Young Gold Dragon 
 ---
 _Large dragon, lawful good_
 

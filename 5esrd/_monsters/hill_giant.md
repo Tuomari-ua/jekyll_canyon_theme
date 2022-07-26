@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hill Giant
+type: Giant
 tag: 5
-
-title: Hill Giant 
 ---
 _Huge giant, chaotic evil_
 

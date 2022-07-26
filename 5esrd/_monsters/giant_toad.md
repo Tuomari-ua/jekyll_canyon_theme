@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Toad
+type: Beast
 tag: 1
-
-title: Giant Toad 
 ---
 _Large beast, unaligned_
 

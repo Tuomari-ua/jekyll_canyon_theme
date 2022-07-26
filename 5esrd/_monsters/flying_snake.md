@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Flying Snake
+type: Beast
 tag: .125
-
-title: Flying Snake 
 ---
 _Tiny beast, unaligned_
 

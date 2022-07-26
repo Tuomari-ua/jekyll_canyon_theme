@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Shambling Mound
+type: Plant
 tag: 5
-
-title: Shambling Mound 
 ---
 _Large plant, unaligned_
 

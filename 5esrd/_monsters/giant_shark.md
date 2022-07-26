@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Shark
+type: Beast
 tag: 5
-
-title: Giant Shark 
 ---
 _Huge beast, unaligned_
 

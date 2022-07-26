@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Homunculus
+type: Construct
 tag: 0
-
-title: Homunculus 
 ---
 _Tiny construct, neutral_
 

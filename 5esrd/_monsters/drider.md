@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Drider
+type: Monstrosity
 tag: 6
-
-title: Drider 
 ---
 _Large monstrosity, chaotic evil_
 

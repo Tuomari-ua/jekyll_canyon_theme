@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Chain Devil
+type: Fiend (devil)
 tag: 8
-
-title: Chain Devil 
 ---
 _Medium fiend (devil), lawful evil_
 

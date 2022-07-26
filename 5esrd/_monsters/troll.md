@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 5
-
+category: monsters
 title: Troll
+type: Giant
+tag: 5
 ---
 _Large giant, chaotic evil_
 

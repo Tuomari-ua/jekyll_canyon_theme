@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Frost Giant
+type: Giant
 tag: 8
-
-title: Frost Giant 
 ---
 _Huge giant, neutral evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Goat
+type: Beast
 tag: 0
-
-title: Goat 
 ---
 _Medium beast, unaligned_
 

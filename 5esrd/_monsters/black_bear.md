@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Black bear
+type: Beast
 tag: .5
-
-title: Black Bear 
 ---
 _Medium beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hippogriff
+type: Monstrosity
 tag: 1
-
-title: Hippogriff 
 ---
 _Large monstrosity, unaligned_
 

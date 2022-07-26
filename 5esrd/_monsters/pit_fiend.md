@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Pit Fiend
+type: Fiend (devil)
 tag: 20
-
-title: Pit Fiend 
 ---
 _Large fiend (devil), lawful evil_
 

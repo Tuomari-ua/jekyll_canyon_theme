@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Brass Dragon
+type: Dragon
 tag: 13
-
-title: Adult Brass Dragon 
 ---
 _Huge dragon, chaotic good_
 

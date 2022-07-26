@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Erinyes
+type: Fiend (devil)
 tag: 12
-
-title: Erinyes 
 ---
 _Medium fiend (devil), lawful evil_
 

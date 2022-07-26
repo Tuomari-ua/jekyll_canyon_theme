@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Goat
+type: Beast
 tag: .5
-
-title: Giant Goat 
 ---
 _Large beast, unaligned_
 

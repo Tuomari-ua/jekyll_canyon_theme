@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gnoll
+type: Humanoid (gnoll)
 tag: .5
-
-title: Gnoll 
 ---
 _Medium humanoid (gnoll), chaotic evil_
 

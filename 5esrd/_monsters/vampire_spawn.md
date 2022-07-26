@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Vampire Spawn
+type: Undead
 tag: 5
-
-title: Vampire Spawn 
 ---
 _Medium undead, neutral evil_
 

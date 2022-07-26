@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Glabrezu
+type: Fiend (demon)
 tag: 9
-
-title: Glabrezu 
 ---
 _Large fiend (demon), chaotic evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Solar
+tag: 21
 type: celestial
-
-title: Solar 
 ---
 _Large celestial, lawful good_
 

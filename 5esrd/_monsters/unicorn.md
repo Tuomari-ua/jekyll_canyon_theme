@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Unicorn
+type: Celestial
 tag: 5
-
-title: Unicorn 
 ---
 _Large celestial, lawful good_
 

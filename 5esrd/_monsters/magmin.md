@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Magmin
+type: Elemental
 tag: .5
-
-title: Magmin 
 ---
 _Small elemental, chaotic neutral_
 

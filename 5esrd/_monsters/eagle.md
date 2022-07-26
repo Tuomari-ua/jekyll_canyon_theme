@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Eagle
+type: Beast
 tag: 0
-
-title: Eagle 
 ---
 _Small beast, unaligned_
 

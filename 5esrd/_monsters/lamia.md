@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lamia
+type: Monstrosity
 tag: 4
-
-title: Lamia 
 ---
 _Large monstrosity, chaotic evil_
 

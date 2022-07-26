@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ettercap
+type: Monstrosity
 tag: 2
-
-title: Ettercap 
 ---
 _Medium monstrosity, neutral evil_
 

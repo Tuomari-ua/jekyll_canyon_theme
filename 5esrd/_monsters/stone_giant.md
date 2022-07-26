@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Stone Giant
+type: Giant
 tag: 7
-
-title: Stone Giant 
 ---
 _Huge giant, neutral_
 

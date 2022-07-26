@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Weasel
+type: Beast
 tag: .125
-
-title: Giant Weasel 
 ---
 _Medium beast, unaligned_
 

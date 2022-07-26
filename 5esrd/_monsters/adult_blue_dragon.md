@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 14
-
-title: Adult Blue Dragon 
+category: monsters
+title: Adult Blue Dragon
+type: Dragon
+tag: 16
 ---
 _Huge dragon, lawful evil_
 

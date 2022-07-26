@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Satyr
+type: Fey
 tag: .5
-
-title: Satyr 
 ---
 _Medium fey, chaotic neutral_
 

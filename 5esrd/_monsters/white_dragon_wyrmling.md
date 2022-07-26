@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: White Dragon Wyrmling
+type: Dragon
 tag: 2
-
-title: White Dragon Wyrmling 
 ---
 _Medium dragon, chaotic evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Spirit Naga
+type: Monstrosity
 tag: 8
-
-title: Spirit Naga 
 ---
 _Large monstrosity, chaotic evil_
 

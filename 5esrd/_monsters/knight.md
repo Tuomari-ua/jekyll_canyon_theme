@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Knight
+type: Humanoid (any race)
 tag: 3
-
-title: Knight 
 ---
 _Medium humanoid (any race), any alignment_
 

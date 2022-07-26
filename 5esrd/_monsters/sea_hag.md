@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Sea Hag
+type: Fey
 tag: 2
-
-title: Sea Hag 
 ---
 _Medium fey, chaotic evil_
 

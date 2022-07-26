@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Death Dog
+type: Monstrosity
 tag: 1
-
-title: Death Dog 
 ---
 _Medium monstrosity, neutral evil_
 

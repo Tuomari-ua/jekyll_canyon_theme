@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gynosphinx
+type: Monstrosity
 tag: 11
-
-title: Gynosphinx 
 ---
 _Large monstrosity, lawful neutral_
 

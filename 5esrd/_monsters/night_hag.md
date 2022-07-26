@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Night Hag
+type: Fiend
 tag: 5
-
-title: Night Hag 
 ---
 _Medium fiend, neutral evil_
 

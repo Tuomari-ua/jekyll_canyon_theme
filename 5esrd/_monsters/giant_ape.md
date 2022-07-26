@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Ape
+type: Beast
 tag: 7
-
-title: Giant Ape 
 ---
 _Huge beast, unaligned_
 

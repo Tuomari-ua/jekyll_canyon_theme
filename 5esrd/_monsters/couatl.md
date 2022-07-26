@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Couatl
+type: Celestial
 tag: 4
-
-title: Couatl 
 ---
 _Medium celestial, lawful good_
 

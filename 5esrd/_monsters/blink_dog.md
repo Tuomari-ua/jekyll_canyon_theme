@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Blink Dog
+type: Fey
 tag: .25
-
-title: Blink Dog 
 ---
 _Medium fey, lawful good_
 

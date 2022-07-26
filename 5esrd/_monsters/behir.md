@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Behir
+type: Monstrosity
 tag: 11
-
-title: Behir 
 ---
 _Huge monstrosity, neutral evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Triceratops
+type: Beast
 tag: 5
-
-title: Triceratops 
 ---
 _Huge beast, unaligned_
 

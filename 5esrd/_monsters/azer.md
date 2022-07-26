@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Azer
+type: Elemental
 tag: 2
-
-title: Azer 
 ---
 _Medium elemental, lawful neutral_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Elk
+type: Beast
 tag: 2
-
-title: Giant Elk 
 ---
 _Huge beast, unaligned_
 

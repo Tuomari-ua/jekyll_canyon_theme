@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Silver Dragon
+type: Dragon
 tag: 16
-
-title: Adult Silver Dragon 
 ---
 _Huge dragon, lawful good_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Rat
+type: Beast
 tag: .125
-
-title: Giant Rat 
 ---
 _Small beast, unaligned_
 

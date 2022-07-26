@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Fire Beetle
+type: Beast
 tag: 0
-
-title: Giant Fire Beetle 
 ---
 _Small beast, unaligned_
 

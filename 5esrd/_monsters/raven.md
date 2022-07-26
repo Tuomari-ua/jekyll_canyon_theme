@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Raven
+type: Beast
 tag: 0
-
-title: Raven 
 ---
 _Tiny beast, unaligned_
 

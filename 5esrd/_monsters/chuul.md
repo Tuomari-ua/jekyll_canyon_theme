@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Chuul
+type: Aberration
 tag: 4
-
-title: Chuul 
 ---
 _Large aberration, chaotic evil_
 

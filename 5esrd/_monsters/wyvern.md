@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wyvern
+type: Dragon
 tag: 6
-
-title: Wyvern 
 ---
 _Large dragon, unaligned_
 

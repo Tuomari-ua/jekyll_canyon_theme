@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lich
+type: Undead
 tag: 21
-
-title: Lich 
 ---
 _Medium undead, any evil alignment_
 

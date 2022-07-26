@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Bat
+type: Beast
 tag: .25
-
-title: Giant Bat 
 ---
 _Large beast, unaligned_
 

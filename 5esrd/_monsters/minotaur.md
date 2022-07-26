@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Minotaur
+type: Monstrosity
 tag: 3
-
-title: Minotaur 
 ---
 _Large monstrosity, chaotic evil_
 

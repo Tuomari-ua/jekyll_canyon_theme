@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Silver Dragon
+type: Dragon
 tag: 9
-
-title: Young Silver Dragon 
 ---
 _Large dragon, lawful good_
 

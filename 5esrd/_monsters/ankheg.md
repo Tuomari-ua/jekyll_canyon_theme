@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ankheg
+type: Monstrosity
 tag: 2
-
-title: Ankheg 
 ---
 _Large monstrosity, unaligned_
 

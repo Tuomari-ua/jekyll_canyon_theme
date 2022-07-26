@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Octopus
+type: Beast
 tag: 1
-
-title: Giant Octopus 
 ---
 _Large beast, unaligned_
 

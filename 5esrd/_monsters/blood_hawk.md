@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Blood Hawk
+type: Beast
 tag: .125
-
-title: Blood Hawk 
 ---
 _Small beast, unaligned_
 

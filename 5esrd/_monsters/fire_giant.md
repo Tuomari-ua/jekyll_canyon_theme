@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Fire Giant
+type: Giant
 tag: 9
-
-title: Fire Giant 
 ---
 _Huge giant, lawful evil_
 

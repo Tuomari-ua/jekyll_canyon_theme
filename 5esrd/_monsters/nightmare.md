@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Nightmare
+type: Fiend
 tag: 3
-
-title: Nightmare 
 ---
 _Large fiend, neutral evil_
 

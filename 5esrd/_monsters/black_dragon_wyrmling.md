@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Black Dragon Wyrmling
+type: Dragon
 tag: 2
-
-title: Black Dragon Wyrmling 
 ---
 _Medium dragon, chaotic evil_
 

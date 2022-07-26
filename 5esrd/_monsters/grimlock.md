@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Grimlock
+type: Humanoid (grimlock)
 tag: .25
-
-title: Grimlock 
 ---
 _Medium humanoid (grimlock), neutral evil_
 

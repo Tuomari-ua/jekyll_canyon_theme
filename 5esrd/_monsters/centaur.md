@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Centaur
+type: Monstrosity
 tag: 2
-
-title: Centaur 
 ---
 _Large monstrosity, neutral good_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Duergar
+type: Humanoid (dwarf)
 tag: 1
-
-title: Duergar 
 ---
 _Medium humanoid (dwarf), lawful evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lizard
+type: Beast
 tag: 0
-
-title: Lizard 
 ---
 _Tiny beast, unaligned_
 

@@ -1,10 +1,9 @@
 ---
-category: monsters
 layout: page
-type: aberration
-
-
-title: Aboleth 
+category: monsters
+title: Aboleth
+type: Aberration
+tag: 10
 ---
 _Large aberration, lawful evil_ 
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Elephant
+type: Beast
 tag: 4
-
-title: Elephant 
 ---
 _Huge beast, unaligned_
 

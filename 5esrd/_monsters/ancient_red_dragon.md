@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Red Dragon
+type: Dragon
 tag: 24
-
-title: Ancient Red Dragon 
 ---
 _Gargantuan dragon, chaotic evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Panther
+type: Beast
 tag: .25
-
-title: Panther 
 ---
 _Medium beast, unaligned_
 

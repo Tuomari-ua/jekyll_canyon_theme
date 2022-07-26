@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Dryad
+type: Fey
 tag: 1
-
-title: Dryad 
 ---
 _Medium fey, neutral_
 

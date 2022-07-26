@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Blue Dragon Wyrmling
+type: Dragon
 tag: 3
-
-title: Blue Dragon Wyrmling 
 ---
 _Medium dragon, lawful evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wraith
+type: Undead
 tag: 5
-
-title: Wraith 
 ---
 _Medium undead, neutral evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Red Dragon
+type: Dragon
 tag: 17
-
-title: Adult Red Dragon 
 ---
 _Huge dragon, chaotic evil_
 

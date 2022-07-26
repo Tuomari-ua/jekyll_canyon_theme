@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Roc
+type: Monstrosity
 tag: 11
-
-title: Roc 
 ---
 _Gargantuan monstrosity, unaligned_
 

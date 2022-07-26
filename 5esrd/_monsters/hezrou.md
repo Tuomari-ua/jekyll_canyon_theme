@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hezrou
+type: Fiend (demon)
 tag: 8
-
-title: Hezrou 
 ---
 _Large fiend (demon), chaotic evil_
 **Armor Class** 16 (natural armor)    

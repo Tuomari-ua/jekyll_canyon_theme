@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ghast
+type: Undead
 tag: 2
-
-title: Ghast 
 ---
 _Medium undead, chaotic evil_
 

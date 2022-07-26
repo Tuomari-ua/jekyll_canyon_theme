@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bandit Captain
+type: Humanoid (any race)
 tag: 2
-
-title: Bandit Captain 
 ---
 _Medium humanoid (any race), any non-lawful alignment_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Salamander
+type: Elemental
 tag: 5
-
-title: Salamander 
 ---
 _Large elemental, neutral evil_
 

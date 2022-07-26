@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Swarm of Ravens
+type: Swarm of Tiny beasts
 tag: .25
-
-title: Swarm of Ravens 
 ---
 _Medium swarm of Tiny beasts, unaligned_
 

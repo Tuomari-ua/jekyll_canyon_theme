@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ape
+type: Beast
 tag: .5
-
-title: Ape 
 ---
 _Medium beast, unaligned_
 

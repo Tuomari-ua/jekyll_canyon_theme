@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gnome, Deep (Svirfneblin)
+type: Humanoid (gnome)
 tag: .5
-
-title: Gnome, Deep (Svirfneblin) 
 ---
 _Small humanoid (gnome), neutral good_
 

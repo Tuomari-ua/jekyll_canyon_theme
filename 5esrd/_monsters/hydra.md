@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hydra
+type: Monstrosity
 tag: 8
-
-title: Hydra 
 ---
 _Huge monstrosity, unaligned_
 

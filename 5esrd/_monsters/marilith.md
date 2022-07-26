@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Marilith
+type: Fiend (demon)
 tag: 16
-
-title: Marilith 
 ---
 _Large fiend (demon), chaotic evil_
 

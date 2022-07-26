@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Black Pudding
+type: Ooze
 tag: 4
-
-title: Black Pudding 
 ---
 _Large ooze, unaligned_
 

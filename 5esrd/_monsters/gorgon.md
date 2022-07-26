@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gorgon
+type: Monstrosity
 tag: 5
-
-title: Gorgon 
 ---
 _Large monstrosity, unaligned_
 

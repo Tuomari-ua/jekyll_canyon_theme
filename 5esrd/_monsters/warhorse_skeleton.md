@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Warhorse Skeleton
+type: Undead
 tag: .5
-
-title: Warhorse Skeleton 
 ---
 _Large undead, lawful evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Silver Dragon Wyrmling
+type: Dragon
 tag: 2
-
-title: Silver Dragon Wyrmling 
 ---
 _Medium dragon, lawful good_
 

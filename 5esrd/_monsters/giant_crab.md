@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Crab
+type: Beast
 tag: .125
-
-title: Giant Crab 
 ---
 _Medium beast, unaligned_
 

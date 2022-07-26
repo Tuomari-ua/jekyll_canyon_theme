@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Copper Dragon
+type: Dragon
 tag: 7
-
-title: Young Copper Dragon 
 ---
 _Large dragon, chaotic good_
 

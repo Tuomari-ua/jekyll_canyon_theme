@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wolf
+type: Beast
 tag: .25
-
-title: Wolf 
 ---
 _Medium beast, unaligned_
 

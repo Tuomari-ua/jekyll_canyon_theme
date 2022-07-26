@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Invisible Stalker
+type: Elemental
 tag: 6
-
-title: Invisible Stalker 
 ---
 _Medium elemental, neutral_
 

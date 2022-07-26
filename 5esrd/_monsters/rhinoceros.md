@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Rhinoceros
+type: Beast
 tag: 2
-
-title: Rhinoceros 
 ---
 _Large beast, unaligned_
 

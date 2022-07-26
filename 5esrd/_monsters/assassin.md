@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Assassin
+type: Humanoid (any race)
 tag: 8
-
-title: Assassin 
 ---
 _Medium humanoid (any race), any non-good alignment_
 

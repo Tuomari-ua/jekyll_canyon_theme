@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Kobold
+type: Humanoid (kobold)
 tag: .125
-
-title: Kobold 
 ---
 _Small humanoid (kobold), lawful evil_
 

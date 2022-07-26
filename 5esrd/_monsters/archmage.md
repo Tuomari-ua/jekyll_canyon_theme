@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Archmage
+type: Humanoid (any race)
 tag: 12
-
-title: Archmage 
 ---
 _Medium humanoid (any race), any alignment_
 

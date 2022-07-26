@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ghost
+type: Undead
 tag: 4
-
-title: Ghost 
 ---
 _Medium undead, any alignment_
 

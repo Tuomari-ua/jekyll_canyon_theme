@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Purple Worm
+type: Monstrosity
 tag: 15
-
-title: Purple Worm 
 ---
 _Gargantuan monstrosity, unaligned_
 

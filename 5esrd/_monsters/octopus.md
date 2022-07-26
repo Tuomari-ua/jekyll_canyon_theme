@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Octopus
+type: Beast
 tag: 0
-
-title: Octopus 
 ---
 _Small beast, unaligned_
 

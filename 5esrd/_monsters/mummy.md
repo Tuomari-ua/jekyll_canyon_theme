@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mummy
+type: Undead
 tag: 3
-
-title: Mummy 
 ---
 _Medium undead, lawful evil_
 

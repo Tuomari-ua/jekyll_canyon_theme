@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ice Devil
+type: Fiend (devil)
 tag: 14
-
-title: Ice Devil 
 ---
 _Large fiend (devil), lawful evil_
 

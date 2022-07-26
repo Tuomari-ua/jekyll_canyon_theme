@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Elk
+type: Beast
 tag: .25
-
-title: Elk 
 ---
 _Large beast, unaligned_
 

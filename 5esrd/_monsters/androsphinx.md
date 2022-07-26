@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Androsphinx
+type: Monstrosity
 tag: 17
-
-title: Androsphinx 
 ---
 _Large monstrosity, lawful neutral_
 

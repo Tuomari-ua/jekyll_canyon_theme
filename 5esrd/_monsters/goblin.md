@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Goblin
+type: Humanoid (goblinoid)
 tag: .25
-
-title: Goblin 
 ---
 _Small humanoid (goblinoid), neutral evil_
 

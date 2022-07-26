@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Brass Dragon
+type: Dragon
 tag: 6
-
-title: Young Brass Dragon 
 ---
 _Large dragon, chaotic good_
 

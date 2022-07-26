@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bandit
+type: Humanoid (any race)
 tag: .125
-
-title: Bandit 
 ---
 _Medium humanoid (any race), any non-lawful alignment_
 

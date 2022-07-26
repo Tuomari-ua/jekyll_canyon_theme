@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mage
+type: Humanoid (any race)
 tag: 6
-
-title: Mage 
 ---
 _Medium humanoid (any race), any alignment_
 

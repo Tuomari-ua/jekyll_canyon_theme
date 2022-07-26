@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ettin
+type: Giant
 tag: 4
-
-title: Ettin 
 ---
 _Large giant, chaotic evil_
 

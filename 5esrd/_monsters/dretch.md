@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Dretch
+type: Fiend (demon)
 tag: .25
-
-title: Dretch 
 ---
 _Small fiend (demon), chaotic evil_
 

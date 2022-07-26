@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Earth Elemental
+type: Elemental
 tag: 5
-
-title: Earth Elemental 
 ---
 _Large elemental, neutral_
 

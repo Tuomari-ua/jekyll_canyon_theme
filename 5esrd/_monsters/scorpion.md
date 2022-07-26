@@ -1,11 +1,11 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Scorpion
+type: Beast
 tag: 0
-
-
-title: Scorpion 
 ---
+---Scorpion 
 _Tiny beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Horned Devil
+type: Fiend (devil)
 tag: 11
-
-title: Horned Devil 
 ---
 _Large fiend (devil), lawful evil_
 

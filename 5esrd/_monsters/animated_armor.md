@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Animated Armor
+type: Construct
 tag: 1
-
-title: Animated Armor 
 ---
 _Medium construct, unaligned_
 

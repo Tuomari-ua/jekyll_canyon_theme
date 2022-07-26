@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gibbering Mouther
+type: Aberration
 tag: 2
-
-title: Gibbering Mouther 
 ---
 _Medium aberration, neutral_
 

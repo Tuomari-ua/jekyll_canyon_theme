@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Guardian Naga
+type: Monstrosity
 tag: 10
-
-title: Guardian Naga 
 ---
 _Large monstrosity, lawful good_
 

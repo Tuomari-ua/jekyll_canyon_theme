@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Weasel
+type: Beast
 tag: 0
-
-title: Weasel 
 ---
 _Tiny beast, unaligned_
 

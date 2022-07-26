@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bugbear
+type: Humanoid
 tag: 1
-
-title: Bugbear 
 ---
 _Medium humanoid (goblinoid), chaotic evil_
 

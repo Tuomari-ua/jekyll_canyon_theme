@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young White Dragon
+type: Dragon
 tag: 6
-
-title: Young White Dragon 
 ---
 _Large dragon, chaotic evil_
 

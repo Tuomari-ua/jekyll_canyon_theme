@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Shadow
+type: Undead
 tag: .5
-
-title: Shadow 
 ---
 _Medium undead, chaotic evil_
 

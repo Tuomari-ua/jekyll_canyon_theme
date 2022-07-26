@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Bronze Dragon
+type: Dragon
 tag: 22
-
-title: Ancient Bronze Dragon 
 ---
 _Gargantuan dragon, lawful good_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Noble
+type: Humanoid (any race)
 tag: .125
-
-title: Noble 
 ---
 _Medium humanoid (any race), any alignment_
 

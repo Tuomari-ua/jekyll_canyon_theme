@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ochre Jelly
+type: Ooze
 tag: 2
-
-title: Ochre Jelly 
 ---
 _Large ooze, unaligned_
 

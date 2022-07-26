@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bulette
+type: Monstrosity
 tag: 5
-
-title: Bulette 
 ---
 _Large monstrosity, unaligned_
 

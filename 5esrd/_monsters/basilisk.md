@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Basilisk
+type: Monstrosity
 tag: 3
-
-title: Basilisk 
 ---
 _Medium monstrosity, unaligned_    
 **Armor Class** 15 (natural armor)    

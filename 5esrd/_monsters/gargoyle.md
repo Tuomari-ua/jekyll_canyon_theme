@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gargoyle
+type: Elemental
 tag: 2
-
-title: Gargoyle 
 ---
 _Medium elemental, chaotic evil_
 

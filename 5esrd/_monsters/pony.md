@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Pony
+type: Beast
 tag: .125
-
-title: Pony 
 ---
 _Medium beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Nalfeshnee
+type: Fiend (demon)
 tag: 13
-
-title: Nalfeshnee 
 ---
 _Large fiend (demon), chaotic evil_
 

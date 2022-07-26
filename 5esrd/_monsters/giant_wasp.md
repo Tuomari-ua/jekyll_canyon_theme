@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Wasp
+type: Beast
 tag: .5
-
-title: Giant Wasp 
 ---
 _Medium beast, unaligned_
 

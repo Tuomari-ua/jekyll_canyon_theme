@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gray Ooze
+type: Ooze
 tag: .5
-
-title: Gray Ooze 
 ---
 _Medium ooze, unaligned_
 

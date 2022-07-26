@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Poisonous Snake
+type: Beast
 tag: .125
-
-title: Poisonous Snake 
 ---
 _Tiny beast, unaligned_
 

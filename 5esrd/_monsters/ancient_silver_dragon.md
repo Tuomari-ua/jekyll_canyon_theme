@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 23
-
+category: monsters
 title: Ancient Silver Dragon
+type: Dragon
+tag: 23
 ---
 _ Gargantuan dragon, lawful good_
 

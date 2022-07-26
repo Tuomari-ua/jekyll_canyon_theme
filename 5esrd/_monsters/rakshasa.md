@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Rakshasa
+type: Fiend
 tag: 13
-
-title: Rakshasa 
 ---
 _Medium fiend, lawful evil_
 

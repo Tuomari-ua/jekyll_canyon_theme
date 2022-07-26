@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Merfolk
+type: Humanoid (merfolk)
 tag: .125
-
-title: Merfolk 
 ---
 _Medium humanoid (merfolk), neutral_
 

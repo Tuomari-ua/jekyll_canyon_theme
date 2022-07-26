@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gelatinous Cube
+type: Ooze
 tag: 2
-
-title: Gelatinous Cube 
 ---
 _Large ooze, unaligned_
 

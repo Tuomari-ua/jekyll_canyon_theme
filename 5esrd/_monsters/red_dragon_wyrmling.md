@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Red Dragon Wyrmling
+type: Dragon
 tag: 4
-
-title: Red Dragon Wyrmling 
 ---
 _Medium dragon, chaotic evil_
 

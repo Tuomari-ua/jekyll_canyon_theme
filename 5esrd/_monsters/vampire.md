@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Vampire
+type: Undead (shapechanger)
 tag: 13
-
-title: Vampire 
 ---
 _Medium undead (shapechanger), lawful evil_
 

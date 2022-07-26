@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Warhorse
+type: Beast
 tag: .5
-
-title: Warhorse 
 ---
 _Large beast, unaligned_
 

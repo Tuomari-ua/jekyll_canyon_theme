@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Stone Golem
+type: Construct
 tag: 10
-
-title: Stone Golem 
 ---
 _Large construct, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Roper
+type: Monstrosity
 tag: 5
-
-title: Roper 
 ---
 _Large monstrosity, neutral evil_
 

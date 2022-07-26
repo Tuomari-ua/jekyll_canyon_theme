@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Water Elemental
+type: Elemental
 tag: 5
-
-title: Water Elemental 
 ---
 _Large elemental, neutral_
 

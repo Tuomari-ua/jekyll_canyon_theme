@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Brass Dragon Wyrmling
+type: Dragon
 tag: 1
-
-title: Brass Dragon Wyrmling 
 ---
 _Medium dragon, chaotic good_
 

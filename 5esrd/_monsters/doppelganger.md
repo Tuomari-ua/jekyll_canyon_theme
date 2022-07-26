@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Doppelganger
+type: Monstrosity
 tag: 3
-
-title: Doppelganger 
 ---
 _Medium monstrosity (shapechanger), neutral_
 

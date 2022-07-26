@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Oni
+type: Giant
 tag: 7
-
-title: Oni 
 ---
 _Large giant, lawful evil_
 **Armor Class** 16 (chain mail)    

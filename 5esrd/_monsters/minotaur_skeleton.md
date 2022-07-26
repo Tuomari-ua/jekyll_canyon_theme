@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 2
-
+category: monsters
 title: Minotaur Skeleton
+type: Undead
+tag: 2
 ---
 _Large undead, lawful evil_
 

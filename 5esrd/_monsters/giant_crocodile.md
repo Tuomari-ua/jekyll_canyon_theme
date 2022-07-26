@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Crocodile
+type: Beast
 tag: 5
-
-title: Giant Crocodile 
 ---
 _Huge beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Fire Elemental
+type: Elemental
 tag: 5
-
-title: Fire Elemental 
 ---
 _Large elemental, neutral_
 

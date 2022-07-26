@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mammoth
+type: Beast
 tag: 6
-
-title: Mammoth 
 ---
 _Huge beast, unaligned_
 

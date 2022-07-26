@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Elf, Drow
+type: Humanoid (elf)
 tag: .25
-
-title: Elf, Drow 
 ---
 _Medium humanoid (elf), neutral evil_   
 **Armor Class** 15 (chain shirt)    

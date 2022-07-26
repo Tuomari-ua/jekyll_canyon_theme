@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Vrock
+type: Fiend (demon)
 tag: 6
-
-title: Vrock 
 ---
 _Large fiend (demon), chaotic evil_
 

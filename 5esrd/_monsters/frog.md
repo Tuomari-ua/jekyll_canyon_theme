@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Frog
+type: Beast
 tag: 0
-
-title: Frog 
 ---
 _Tiny beast, unaligned_
 

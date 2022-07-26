@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Quasit
+type: Fiend (demon)
 tag: 1
-
-title: Quasit 
 ---
 _Tiny fiend (demon, shapechanger), chaotic evil_
 

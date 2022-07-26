@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Baboon
+type: Beast
 tag: 0
-
-title: Baboon 
 ---
 _Small beast, unaligned_
 

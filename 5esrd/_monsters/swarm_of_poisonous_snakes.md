@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Swarm of Poisonous Snakes
+type: Swarm of Tiny beasts
 tag: 2
-
-title: Swarm of Poisonous Snakes 
 ---
 _Medium swarm of Tiny beasts, unaligned_
 

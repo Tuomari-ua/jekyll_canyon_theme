@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Owl
+type: Beast
 tag: 0
-
-title: Owl 
 ---
 _Tiny beast, unaligned_
 

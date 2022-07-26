@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Sprite
+type: Fey
 tag: .25
-
-title: Sprite 
 ---
 _Tiny fey, neutral good_
 

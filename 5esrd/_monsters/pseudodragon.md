@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Pseudodragon
+type: Dragon
 tag: .25
-
-title: Pseudodragon 
 ---
 _Tiny dragon, neutral good_
 

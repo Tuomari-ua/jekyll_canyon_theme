@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Zombie
+type: Undead
 tag: .25
-
-title: Zombie 
 ---
 _Medium undead, neutral evil_
 

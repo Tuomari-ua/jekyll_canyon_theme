@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Cat
+type: Beast
 tag: 0
-
-title: Cat 
 ---
 _Tiny beast, unaligned_
 

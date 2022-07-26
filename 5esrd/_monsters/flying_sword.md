@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Flying Sword
+type: Construct
 tag: .25
-
-title: Flying Sword 
 ---
 _Small construct, unaligned_
 

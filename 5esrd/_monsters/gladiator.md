@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gladiator
+type: Humanoid (any race)
 tag: 5
-
-title: Gladiator 
 ---
 _Medium humanoid (any race), any alignment_
 

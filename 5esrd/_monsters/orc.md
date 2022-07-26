@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Orc
+type: Humanoid (orc)
 tag: .5
-
-title: Orc 
 ---
 _Medium humanoid (orc), chaotic evil_
 

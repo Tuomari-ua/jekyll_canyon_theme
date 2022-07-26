@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Steam Mephit
+type: Elemental
 tag: .25
-
-title: Steam Mephit 
 ---
 _Small elemental, neutral evil_
 

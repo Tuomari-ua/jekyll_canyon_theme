@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Berserker
+type: Humanoid (any race)
 tag: 2
-
-title: Berserker 
 ---
 _Medium humanoid (any race), any chaotic alignment_
 

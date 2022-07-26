@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lion
+type: Beast
 tag: 1
-
-title: Lion 
 ---
 _Large beast, unaligned_
 

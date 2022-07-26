@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Skeleton
+type: Undead
 tag: .25
-
-title: Skeleton 
 ---
 _Medium undead, lawful evil_
 

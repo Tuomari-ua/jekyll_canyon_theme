@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Rat
+type: Beast
 tag: 0
-
-title: Rat 
 ---
 _Tiny beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Tribal Warrior
+type: Humanoid (any race)
 tag: .125
-
-title: Tribal Warrior 
 ---
 _Medium humanoid (any race), any alignment_
 

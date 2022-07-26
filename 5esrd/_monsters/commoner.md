@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Commoner
+type: Humanoid (any race)
 tag: 0
-
-title: Commoner 
 ---
 _Medium humanoid (any race), any alignment_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Grick
+type: Monstrosity
 tag: 2
-
-title: Grick 
 ---
 _Medium monstrosity, neutral_
 

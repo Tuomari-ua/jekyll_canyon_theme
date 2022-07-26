@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Violet Fungus
+type: Plant
 tag: .25
-
-title: Violet Fungus 
 ---
 _Medium plant, unaligned_
 

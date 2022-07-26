@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Copper Dragon
+type: Dragon
 tag: 21
-
-title: Ancient Copper Dragon 
 ---
 _Gargantuan dragon, chaotic good_
 

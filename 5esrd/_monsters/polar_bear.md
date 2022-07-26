@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Polar Bear
+type: Beast
 tag: 2
-
-title: Polar Bear 
 ---
 _Large beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hell Hound
+type: Fiend
 tag: 3
-
-title: Hell Hound 
 ---
 _Medium fiend, lawful evil_
 

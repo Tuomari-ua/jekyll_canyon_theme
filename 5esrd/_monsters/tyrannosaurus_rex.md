@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Tyrannosaurus Rex
+type: Beast
 tag: 8
-
-title: Tyrannosaurus Rex 
 ---
 _Huge beast, unaligned_
 

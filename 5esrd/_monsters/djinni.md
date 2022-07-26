@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Djinni
+type: Elemental
 tag: 11
-
-title: Djinni 
 ---
 _Large elemental, chaotic good_
 

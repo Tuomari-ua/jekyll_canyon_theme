@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Flesh Golem
+type: Construct
 tag: 5
-
-title: Flesh Golem 
 ---
 _Medium construct, neutral_
 

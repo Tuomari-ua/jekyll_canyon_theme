@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Sahuagin
+type: Humanoid (sahuagin)
 tag: .5
-
-title: Sahuagin 
 ---
 _Medium humanoid (sahuagin), lawful evil_
 

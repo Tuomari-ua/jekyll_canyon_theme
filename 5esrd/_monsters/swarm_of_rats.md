@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Swarm of Rats
+type: Swarm of Tiny beasts
 tag: .25
-
-title: Swarm of Rats 
 ---
 _Medium swarm of Tiny beasts, unaligned_
 

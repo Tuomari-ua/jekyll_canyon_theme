@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Swarm of Quippers
+type: Swarm of Tiny beasts
 tag: 1
-
-title: Swarm of Quippers 
 ---
 _Medium swarm of Tiny beasts, unaligned_
 

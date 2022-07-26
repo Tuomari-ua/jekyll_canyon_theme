@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Scout
+type: Humanoid (any race)
 tag: .5
-
-title: Scout 
 ---
 _Medium humanoid (any race), any alignment_
 

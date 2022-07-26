@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Otyugh
+type: Aberration
 tag: 5
-
-title: Otyugh 
 ---
 _Large aberration, neutral_
 

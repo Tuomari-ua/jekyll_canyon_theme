@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Deer
+type: Beast
 tag: 0
-
-title: Deer 
 ---
 _Medium beast, unaligned_
 

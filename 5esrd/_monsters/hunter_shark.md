@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hunter Shark
+type: Beast
 tag: 2
-
-title: Hunter Shark 
 ---
 _Large beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Priest
+type: Humanoid (any race)
 tag: 2
-
-title: Priest 
 ---
 _Medium humanoid (any race), any alignment_
 

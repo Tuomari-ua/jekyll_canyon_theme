@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Specter
+type: Undead
 tag: 1
-
-title: Specter 
 ---
 _Medium undead, chaotic evil_
 

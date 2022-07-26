@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Chimera
+type: Monstrosity
 tag: 6
-
-title: Chimera 
 ---
 _Large monstrosity, chaotic evil_
 

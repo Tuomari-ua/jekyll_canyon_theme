@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Green Dragon Wyrmling
+type: Dragon
 tag: 2
-
-title: Green Dragon Wyrmling 
 ---
 _Medium dragon, lawful evil_
 

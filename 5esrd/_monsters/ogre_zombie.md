@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ogre Zombie
+type: Undead
 tag: 2
-
-title: Ogre Zombie 
 ---
 _Large undead, neutral evil_
 

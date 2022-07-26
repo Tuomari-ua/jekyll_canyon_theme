@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Brown Bear
+type: Beast
 tag: 1
-
-title: Brown Bear 
 ---
 _Large beast, unaligned_
 

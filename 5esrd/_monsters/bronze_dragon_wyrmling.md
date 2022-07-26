@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bronze Dragon Wyrmling
+type: Dragon
 tag: 2
-
-title: Bronze Dragon Wyrmling 
 ---
 _Medium dragon, lawful good_
 

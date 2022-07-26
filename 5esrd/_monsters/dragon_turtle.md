@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Dragon Turtle
+type: Dragon
 tag: 17
-
-title: Dragon Turtle 
 ---
 _Gargantuan dragon, neutral_
 

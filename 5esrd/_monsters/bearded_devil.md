@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bearded Devil
+type: Fiend (devil)
 tag: 3
-
-title: Bearded Devil 
 ---
 _Medium fiend (devil), lawful evil_
 

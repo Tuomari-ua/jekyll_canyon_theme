@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bone Devil
+type: Fiend (devil)
 tag: 9
-
-title: Bone Devil 
 ---
 _Large fiend (devil), lawful evil_
 

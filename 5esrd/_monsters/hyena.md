@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hyena
+type: Beast
 tag: 0
-
-title: Hyena 
 ---
 _Medium beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Poisonous Snake
+type: Beast
 tag: .25
-
-title: Giant Poisonous Snake 
 ---
 _Medium beast, unaligned_
 

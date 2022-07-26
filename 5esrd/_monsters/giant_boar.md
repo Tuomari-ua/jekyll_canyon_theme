@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Boar
+type: Beast
 tag: 2
-
-title: Giant Boar 
 ---
 _Large beast, unaligned_
 

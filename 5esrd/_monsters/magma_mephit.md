@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Magma Mephit
+type: Elemental
 tag: .5
-
-title: Magma Mephit 
 ---
 _Small elemental, neutral evil_
 

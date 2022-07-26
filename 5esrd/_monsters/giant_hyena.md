@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Hyena
+type: Beast
 tag: 1
-
-title: Giant Hyena 
 ---
 _Large beast, unaligned_
 

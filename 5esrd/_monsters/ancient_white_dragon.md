@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient White Dragon
+type: Dragon
 tag: 20
-
-title: Ancient White Dragon 
 ---
 _Gargantuan dragon, chaotic evil_
 

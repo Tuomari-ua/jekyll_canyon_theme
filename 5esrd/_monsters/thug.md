@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Thug
+type: Humanoid (any race)
 tag: .5 
-
-title: Thug 
 ---
 _Medium humanoid (any race), any non-good alignment_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 30
-
+category: monsters
 title: Tarrasque
+type: Monstrosity
+tag: 30
 ---
 _Gargantuan monstrosity (titan), unaligned_
 

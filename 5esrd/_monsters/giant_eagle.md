@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Eagle
+type: Beast
 tag: 1
-
-title: Giant Eagle 
 ---
 _Large beast, neutral good_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Frog
+type: Beast
 tag: .25
-
-title: Giant Frog 
 ---
 _Medium beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Crab
+type: Beast
 tag: 0
-
-title: Crab 
 ---
 _Tiny beast, unaligned_
 

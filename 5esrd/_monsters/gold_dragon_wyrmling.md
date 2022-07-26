@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Gold Dragon Wyrmling
+type: Dragon
 tag: 3
-
-title: Gold Dragon Wyrmling 
 ---
 _Medium dragon, lawful evil_
 

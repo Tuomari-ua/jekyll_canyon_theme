@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Darkmantle
+type: Monstrosity
 tag: .5
-
-title: Darkmantle 
 ---
 _Small monstrosity, unaligned_
 

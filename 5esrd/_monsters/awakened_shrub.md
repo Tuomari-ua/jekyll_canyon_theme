@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Awakened Shrub
+type: Plant
 tag: 0
-
-title: Awakened Shrub 
 ---
 _Small plant, unaligned_
 

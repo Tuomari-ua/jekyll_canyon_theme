@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Vulture
+type: Beast
 tag: 1
-
-title: Giant Vulture 
 ---
 _Large beast, neutral evil_
 

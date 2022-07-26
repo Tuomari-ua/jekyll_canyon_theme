@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Spider
+type: Beast
 tag: 0
-
-title: Spider 
 ---
 _Tiny beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Black Dragon
+type: Dragon
 tag: 14
-
-title: Adult Black Dragon 
 ---
 _Huge dragon, chaotic evil_
 

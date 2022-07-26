@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Phase Spider
+type: Monstrosity
 tag: 3
-
-title: Phase Spider 
 ---
 _Large monstrosity, unaligned_
 

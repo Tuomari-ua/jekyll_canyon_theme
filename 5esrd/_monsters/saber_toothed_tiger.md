@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Saber-Toothed Tiger
+type: Beast
 tag: 2
-
-title: Saber-Toothed Tiger 
 ---
 _Large beast, unaligned_
 

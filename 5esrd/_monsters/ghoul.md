@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ghoul
+type: Undead
 tag: 1
-
-title: Ghoul 
 ---
 _Medium undead, chaotic evil_
 

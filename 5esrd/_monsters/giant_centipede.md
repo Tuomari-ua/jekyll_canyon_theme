@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Centipede
+type: Beast
 tag: .25
-
-title: Giant Centipede 
 ---
 _Small beast, unaligned_
 

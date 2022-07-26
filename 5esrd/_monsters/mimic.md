@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mimic
+type: Monstrosity (shapechanger)
 tag: 2
-
-title: Mimic 
 ---
 _Medium monstrosity (shapechanger), neutral_
 

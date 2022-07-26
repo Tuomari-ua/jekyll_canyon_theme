@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Barbed Devil
+type: Fiend (devil)
 tag: 5
-
-title: Barbed Devil 
 ---
 _Medium fiend (devil), lawful evil_
 

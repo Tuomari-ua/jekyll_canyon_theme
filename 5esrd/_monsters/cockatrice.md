@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Cockatrice
+type: Monstrosity
 tag: .5
-
-title: Cockatrice 
 ---
 _Small monstrosity, unaligned_
 

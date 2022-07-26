@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Rug of Smothering
+type: Construct
 tag: 2
-
-title: Rug of Smothering 
 ---
 _Large construct, unaligned_
 

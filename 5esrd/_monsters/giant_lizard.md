@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 25
-
-title: Giant Lizard 
+category: monsters
+title: Giant Lizard
+type: Beast
+tag: .25
 ---
 _Large beast, unaligned_
 

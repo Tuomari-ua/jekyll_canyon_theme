@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Blue Dragon
+type: Dragon
 tag: 23
-
-title: Ancient Blue Dragon 
 ---
 _Gargantuan dragon, lawful evil_
 

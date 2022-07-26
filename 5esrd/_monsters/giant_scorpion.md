@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Scorpion
+type: Beast
 tag: 3
-
-title: Giant Scorpion 
 ---
 _Large beast, unaligned_
 

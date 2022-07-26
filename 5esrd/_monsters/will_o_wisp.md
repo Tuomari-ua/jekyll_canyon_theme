@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Will-o'-Wisp
+type: Undead
 tag: 2
-
-title: Will-o'-Wisp 
 ---
 _Tiny undead, chaotic evil_
 

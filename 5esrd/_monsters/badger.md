@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Badger
+type: Beast
 tag: 0
-
-title: Badger 
 ---
 _Tiny beast, unaligned_
 

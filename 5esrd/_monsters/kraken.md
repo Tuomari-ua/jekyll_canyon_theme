@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Kraken
+type: Monstrosity (titan)
 tag: 23
-
-title: Kraken 
 ---
 _Gargantuan monstrosity (titan), chaotic evil_
 

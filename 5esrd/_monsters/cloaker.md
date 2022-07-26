@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Cloaker
+type: Aberration
 tag: 8
-
-title: Cloaker 
 ---
 _Large aberration, chaotic neutral_
 

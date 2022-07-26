@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Swarm of Insects
+type: Swarm of Tiny beasts
 tag: .5
-
-title: Swarm of Insects 
 ---
 _Medium swarm of Tiny beasts, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wererat
+type: Humanoid (human, shapechanger)
 tag: 2
-
-title: Wererat 
 ---
 _Medium humanoid (human, shapechanger), lawful evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Killer Whale
+type: Beast
 tag: 3
-
-title: Killer Whale 
 ---
 _Huge beast, unaligned_
 

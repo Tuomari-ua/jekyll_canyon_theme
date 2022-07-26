@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Rust Monster
+type: Monstrosity
 tag: .5
-
-title: Rust Monster 
 ---
 _Medium monstrosity, unaligned_
 

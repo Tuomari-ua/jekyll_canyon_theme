@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Worg
+type: Monstrosity
 tag: .5
-
-title: Worg 
 ---
 _Large monstrosity, neutral evil_
 

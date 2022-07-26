@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lemure
+type: Fiend (devil)
 tag: 0
-
-title: Lemure 
 ---
 _Medium fiend (devil), lawful evil_
 

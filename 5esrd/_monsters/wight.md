@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wight
+type: Undead
 tag: 3
-
-title: Wight 
 ---
 _Medium undead, neutral evil_
 

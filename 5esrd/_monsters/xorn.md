@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Xorn
+type: Elemental
 tag: 5
-
-title: Xorn 
 ---
 _Medium elemental, neutral_
 

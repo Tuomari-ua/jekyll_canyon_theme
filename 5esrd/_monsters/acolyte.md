@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Acolyte
+type: Humanoid (any race)
 tag: .25
-
-title: Acolyte 
 ---
 _Medium humanoid (any race), any alignment_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Dust Mephit
+type: Elemental
 tag: .5
-
-title: Dust Mephit 
 ---
 _Small elemental, neutral evil_
 

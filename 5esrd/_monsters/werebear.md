@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Werebear
+type: Humanoid (human, shapechanger)
 tag: 5
-
-title: Werebear 
 ---
 _Medium humanoid (human, shapechanger), neutral good_
 

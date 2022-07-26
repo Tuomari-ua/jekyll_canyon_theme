@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mummy Lord
+type: Undead
 tag: 15
-
-title: Mummy Lord 
 ---
 _Medium undead, lawful evil_
 

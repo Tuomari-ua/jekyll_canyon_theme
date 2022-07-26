@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Manticore
+type: Monstrosity
 tag: 3
-
-title: Manticore 
 ---
 _Large monstrosity, lawful evil_
 

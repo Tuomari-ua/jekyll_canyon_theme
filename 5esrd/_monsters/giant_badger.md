@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Badger
+type: Beast
 tag: .25
-
-title: Giant Badger 
 ---
 _Medium beast, unaligned_
 

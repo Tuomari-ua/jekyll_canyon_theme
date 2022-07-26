@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ogre
+type: Giant
 tag: 2
-
-title: Ogre 
 ---
 _Large giant, chaotic evil_
 

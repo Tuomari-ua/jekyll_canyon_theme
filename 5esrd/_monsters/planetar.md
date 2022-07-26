@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Planetar
+tag: 16
 type: celestial
-
-title: Planetar 
 ---
 _Large celestial, lawful good_
 

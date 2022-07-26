@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Tiger
+type: Beast
 tag: 1
-
-title: Tiger 
 ---
 _Large beast, unaligned_
 

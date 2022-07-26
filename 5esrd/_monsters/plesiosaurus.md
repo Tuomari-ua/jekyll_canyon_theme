@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Plesiosaurus
+type: Beast
 tag: 2
-
-title: Plesiosaurus 
 ---
 _Large beast, unaligned_
 

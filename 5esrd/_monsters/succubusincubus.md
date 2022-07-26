@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Succubus/Incubus
+type: Fiend (shapechanger)
 tag: 4
-
-title: Succubus/Incubus 
 ---
 _Medium fiend (shapechanger), neutral evil_
 

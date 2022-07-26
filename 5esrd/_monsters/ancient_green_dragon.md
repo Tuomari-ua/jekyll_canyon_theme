@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Green Dragon
+type: Dragon
 tag: 22
-
-title: Ancient Green Dragon 
 ---
 _Gargantuan dragon, lawful evil_
 

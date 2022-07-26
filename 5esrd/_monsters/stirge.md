@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Stirge
+type: Beast
 tag: .125
-
-title: Stirge 
 ---
 _Tiny beast, unaligned_
 

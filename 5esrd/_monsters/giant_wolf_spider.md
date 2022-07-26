@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Wolf Spider
+type: Beast
 tag: .25
-
-title: Giant Wolf Spider 
 ---
 _Medium beast, unaligned_
 

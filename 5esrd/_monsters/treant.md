@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
-tag: 9
-
+category: monsters
 title: Treant
+type: Plant
+tag: 9
 ---
 _Huge plant, chaotic good_
 

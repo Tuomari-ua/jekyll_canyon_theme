@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Draft Horse
+type: Beast
 tag: .25
-
-title: Draft Horse 
 ---
 _Large beast, unaligned_
 

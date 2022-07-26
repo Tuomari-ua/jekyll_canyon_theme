@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Black Dragon
+type: Dragon
 tag: 21
-
-title: Ancient Black Dragon 
 ---
 _Gargantuan dragon, chaotic evil_
 

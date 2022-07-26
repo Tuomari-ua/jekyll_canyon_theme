@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Cult Fanatic
+type: Humanoid (any race)
 tag: 2
-
-title: Cult Fanatic 
 ---
 _Medium humanoid (any race), any non-good alignment_
 

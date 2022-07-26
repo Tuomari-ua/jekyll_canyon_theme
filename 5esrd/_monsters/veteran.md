@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Veteran
+type: Humanoid (any race)
 tag: 3
-
-title: Veteran 
 ---
 _Medium humanoid (any race), any alignment_
 

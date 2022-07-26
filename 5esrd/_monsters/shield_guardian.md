@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Shield Guardian
+type: Construct
 tag: 7
-
-title: Shield Guardian 
 ---
 _Large construct, unaligned_
 

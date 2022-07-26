@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Bronze Dragon
+type: Dragon
 tag: 15
-
-title: Adult Bronze Dragon 
 ---
 _Huge dragon, lawful good_
 

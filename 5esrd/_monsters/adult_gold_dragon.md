@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Gold Dragon
+type: Dragon
 tag: 17
-
-title: Adult Gold Dragon 
 ---
 _Huge dragon, lawful good_
 

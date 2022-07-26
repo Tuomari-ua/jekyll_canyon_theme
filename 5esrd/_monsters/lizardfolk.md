@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Lizardfolk
+type: Humanoid (lizardfolk)
 tag: .5
-
-title: Lizardfolk 
 ---
 _Medium humanoid (lizardfolk), neutral_
 

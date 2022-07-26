@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Owl
+type: Beast
 tag: .25
-
-title: Giant Owl 
 ---
 _Large beast, neutral_
 

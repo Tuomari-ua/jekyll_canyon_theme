@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Black Dragon
+type: Dragon
 tag: 7
-
-title: Young Black Dragon 
 ---
 _Large dragon, chaotic evil_
 

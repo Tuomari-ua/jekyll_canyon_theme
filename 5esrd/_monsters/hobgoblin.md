@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hobgoblin
+type: Humanoid (goblinoid)
 tag: .5
-
-title: Hobgoblin 
 ---
 _Medium humanoid (goblinoid), lawful evil_
 

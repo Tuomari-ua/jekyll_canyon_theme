@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Hawk
+type: Beast
 tag: 0
-
-title: Hawk 
 ---
 _Tiny beast, unaligned_
 

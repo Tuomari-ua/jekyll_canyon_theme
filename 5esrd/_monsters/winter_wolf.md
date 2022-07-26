@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Winter Wolf
+type: Monstrosity
 tag: 3
-
-title: Winter Wolf 
 ---
 _Large monstrosity, neutral evil_
 

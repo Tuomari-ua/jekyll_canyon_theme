@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Half-Red Dragon Veteran
+type: Humanoid (human)
 tag: 5
-
-title: Half-Red Dragon Veteran 
 ---
 _Medium humanoid (human), any alignment_
 

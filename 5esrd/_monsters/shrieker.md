@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Shrieker
+type: Plant
 tag: 0
-
-title: Shrieker 
 ---
 _Medium plant, unaligned_
 

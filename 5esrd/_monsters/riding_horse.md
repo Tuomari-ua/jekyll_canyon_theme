@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Riding Horse
+type: Beast
 tag: .25
-
-title: Riding Horse 
 ---
 _Large beast, unaligned_
 

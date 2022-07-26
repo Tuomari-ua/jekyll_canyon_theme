@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Bronze Dragon
+type: Dragon
 tag: 8
-
-title: Young Bronze Dragon 
 ---
 _Large dragon, lawful good_
 

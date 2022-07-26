@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Vulture
+type: Beast
 tag: 0
-
-title: Vulture 
 ---
 _Medium beast, unaligned_
 

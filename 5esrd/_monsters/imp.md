@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Imp
+type: Fiend (devil)
 tag: 1
-
-title: Imp 
 ---
 _Tiny fiend (devil, shapechanger), lawful evil_
 

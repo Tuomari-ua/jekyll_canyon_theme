@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Axe Beak
+type: Beast
 tag: .25
-
-title: Axe Beak 
 ---
 _Large beast, unaligned_
 

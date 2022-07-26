@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Brass Dragon
+type: Dragon
 tag: 20
-
-title: Ancient Brass Dragon 
 ---
 _Gargantuan dragon, chaotic good_
 

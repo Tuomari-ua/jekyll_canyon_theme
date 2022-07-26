@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Air Elemental
+type: Elemental
 tag: 5
-
-title: Air Elemental 
 ---
 _Large elemental, neutral_
 

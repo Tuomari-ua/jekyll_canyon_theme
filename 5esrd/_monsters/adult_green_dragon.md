@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult Green Dragon
+type: Dragon
 tag: 15
-
-title: Adult Green Dragon 
 ---
 _Huge dragon, lawful evil_
 

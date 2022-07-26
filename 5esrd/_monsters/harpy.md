@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Harpy
+type: Monstrosity
 tag: 1
-
-title: Harpy 
 ---
 _Medium monstrosity, chaotic evil_
 

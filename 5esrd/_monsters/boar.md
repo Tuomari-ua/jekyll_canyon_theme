@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Boar
+type: Beast
 tag: .25
-
-title: Boar 
 ---
 _Medium beast, unaligned_
 

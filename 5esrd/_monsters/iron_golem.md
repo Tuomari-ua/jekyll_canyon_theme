@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Iron Golem
+type: Construct
 tag: 16
-
-title: Iron Golem 
 ---
 _Large construct, unaligned_
 

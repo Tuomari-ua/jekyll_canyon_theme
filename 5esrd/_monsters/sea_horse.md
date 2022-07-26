@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Sea Horse
+type: Beast
 tag: 0
-
-title: Sea Horse 
 ---
 _Tiny beast, unaligned_
 

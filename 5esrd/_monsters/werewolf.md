@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Werewolf
+type: Humanoid (human, shapechanger)
 tag: 3
-
-title: Werewolf 
 ---
 _Medium humanoid (human, shapechanger), chaotic evil_
 

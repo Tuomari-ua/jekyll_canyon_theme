@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mastiff
+type: Beast
 tag: .125
-
-title: Mastiff 
 ---
 _Medium beast, unaligned_
 

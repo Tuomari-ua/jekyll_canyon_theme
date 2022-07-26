@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Red Dragon
+type: Dragon
 tag: 10
-
-title: Young Red Dragon 
 ---
 _Large dragon, chaotic evil_
 

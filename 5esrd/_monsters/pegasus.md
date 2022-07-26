@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Pegasus
+type: Celestial
 tag: 2
-
-title: Pegasus 
 ---
 _Large celestial, chaotic good_
 

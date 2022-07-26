@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Constrictor Snake
+type: Beast
 tag: .25
-
-title: Constrictor Snake 
 ---
 _Large beast, unaligned_
 

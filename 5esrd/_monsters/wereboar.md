@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Wereboar
+type: Humanoid (human, shapechanger)
 tag: 4
-
-title: Wereboar 
 ---
 _Medium humanoid (human, shapechanger), neutral evil_
 

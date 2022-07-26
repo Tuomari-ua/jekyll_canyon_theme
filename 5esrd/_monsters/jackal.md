@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Jackal
+type: Beast
 tag: 0
-
-title: Jackal 
 ---
 _Small beast, unaligned_
 

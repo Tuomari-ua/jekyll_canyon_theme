@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Remorhaz
+type: Monstrosity
 tag: 11
-
-title: Remorhaz 
 ---
 _Huge monstrosity, unaligned_
 

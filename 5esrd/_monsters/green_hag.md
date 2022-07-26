@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Green Hag
+type: Fey
 tag: 3
-
-title: Green Hag 
 ---
 _Medium fey, neutral evil_
 

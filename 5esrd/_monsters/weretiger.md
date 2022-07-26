@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Weretiger
+type: Humanoid (human, shapechanger)
 tag: 4
-
-title: Weretiger 
 ---
 _Medium humanoid (human, shapechanger), neutral_
 

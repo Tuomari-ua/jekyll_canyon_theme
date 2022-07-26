@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Balor
+type: Fiend (demon)
 tag: 19
-
-title: Balor 
 ---
 _Huge fiend (demon), chaotic evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Constrictor Snake
+type: Beast
 tag: 2
-
-title: Giant Constrictor Snake 
 ---
 _Huge beast, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Griffon
+type: Monstrosity
 tag: 2
-
-title: Griffon 
 ---
 _Large monstrosity, unaligned_
 

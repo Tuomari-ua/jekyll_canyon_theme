@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Medusa
+type: Monstrosity
 tag: 6
-
-title: Medusa 
 ---
 _Medium monstrosity, lawful evil_
 

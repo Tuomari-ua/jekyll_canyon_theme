@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Owlbear
+type: Monstrosity
 tag: 3
-
-title: Owlbear 
 ---
 _Large monstrosity, unaligned_
 

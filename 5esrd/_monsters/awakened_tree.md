@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Awakened Tree
+type: Plant
 tag: 2
-
-title: Awakened Tree 
 ---
 _Huge plant, unaligned_
 

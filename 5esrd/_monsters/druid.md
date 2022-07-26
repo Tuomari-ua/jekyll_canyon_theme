@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Druid
+type: Humanoid (any race)
 tag: 2
-
-title: Druid 
 ---
 _Medium humanoid (any race), any alignment_
 

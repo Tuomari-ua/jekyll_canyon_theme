@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Ancient Gold Dragon
+type: Dragon
 tag: 24
-
-title: Ancient Gold Dragon 
 ---
 _Gargantuan dragon, lawful good_
 

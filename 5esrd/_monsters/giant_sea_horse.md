@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Giant Sea Horse
+type: Beast
 tag: .5
-
-title: Giant Sea Horse 
 ---
 _Large beast, unaligned_
 

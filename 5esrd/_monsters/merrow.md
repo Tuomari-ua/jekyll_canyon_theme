@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Merrow
+type: Monstrosity
 tag: 2
-
-title: Merrow 
 ---
 _Large monstrosity, chaotic evil_
 

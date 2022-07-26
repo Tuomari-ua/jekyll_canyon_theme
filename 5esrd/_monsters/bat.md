@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Bat
+type: Beast
 tag: 0
-
-title: Bat 
 ---
 _Tiny beast, unaligned_
 

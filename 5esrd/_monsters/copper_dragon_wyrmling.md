@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Copper Dragon Wyrmling
+type: Dragon
 tag: 1
-
-title: Copper Dragon Wyrmling 
 ---
 _Medium dragon, chaotic good_
 

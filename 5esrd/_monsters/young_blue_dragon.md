@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Blue Dragon
+type: Dragon
 tag: 9
-
-title: Young Blue Dragon 
 ---
 _Large dragon, lawful evil_
 

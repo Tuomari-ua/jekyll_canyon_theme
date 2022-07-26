@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Adult White Dragon
+type: Dragon
 tag: 13
-
-title: Adult White Dragon 
 ---
 _Huge dragon, chaotic evil_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Young Green Dragon
+type: Dragon
 tag: 8
-
-title: Young Green Dragon 
 ---
 _Large dragon, lawful evil_
 

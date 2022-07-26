@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Storm Giant
+type: Giant
 tag: 13
-
-title: Storm Giant 
 ---
 _Huge giant, chaotic good_
 

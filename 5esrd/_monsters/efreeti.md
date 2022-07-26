@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Efreeti
+type: Elemental
 tag: 11
-
-title: Efreeti 
 ---
 _Large elemental, lawful evil_
 

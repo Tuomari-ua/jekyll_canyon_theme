@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Clay Golem
+type: Construct
 tag: 9
-
-title: Clay Golem 
 ---
 _Large construct, unaligned_
 

@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Reef Shark
+type: Beast
 tag: .5
-
-title: Reef Shark 
 ---
 _Medium beast, unaligned_
 

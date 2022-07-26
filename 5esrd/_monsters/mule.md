@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Mule
+type: Beast
 tag: .125
-
-title: Mule 
 ---
 _Medium beast, unaligned_
 

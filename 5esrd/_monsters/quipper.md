@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Quipper
+type: Beast
 tag: 0
-
-title: Quipper 
 ---
 _Tiny beast, unaligned_
 

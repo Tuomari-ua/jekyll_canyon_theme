@@ -1,9 +1,9 @@
 ---
-category: monsters
 layout: page
+category: monsters
+title: Camel
+type: Beast
 tag: .125
-
-title: Camel 
 ---
 _Large beast, unaligned_
 
