@@ -10,7 +10,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Aberration" -%}
+              {%- if doc.type contains "Aberration" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -20,7 +20,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Beast" -%}
+              {%- if doc.type contains "Beast" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -30,7 +30,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Celestial" -%}
+              {%- if doc.type contains "Celestial" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -40,7 +40,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Construct" -%}
+              {%- if doc.type contains "Construct" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -50,7 +50,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Dragon" -%}
+              {%- if doc.type contains "Dragon" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -60,7 +60,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Elemental" -%}
+              {%- if doc.type contains "Elemental" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -70,7 +70,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Fey" -%}
+              {%- if doc.type contains "Fey" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -80,7 +80,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Fiend" -%}
+              {%- if doc.type contains "Fiend" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -90,7 +90,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Giant" -%}
+              {%- if doc.type contains "Giant" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -100,7 +100,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Humanoid" -%}
+              {%- if doc.type contains "Humanoid" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -110,7 +110,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Monstrosity" -%}
+              {%- if doc.type contains "Monstrosity" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -120,7 +120,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Ooze" -%}
+              {%- if doc.type contains "Ooze" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -130,7 +130,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Plant" -%}
+              {%- if doc.type contains "Plant" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
@@ -140,7 +140,7 @@ layout: default
             {% assign sortedPosts = site.monsters | sort: 'title' %}
             <ul>
             {% for doc in sortedPosts %}
-              {%- if doc.type contein "Undead" -%}
+              {%- if doc.type contains "Undead" -%}
                 <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
               {%- endif -%}
             {% endfor %}
