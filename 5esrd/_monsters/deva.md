@@ -3,7 +3,7 @@ layout: page
 category: monsters
 title: Deva
 tag: 10
-type: celestial
+type: Celestial
 ---
 _Medium celestial, lawful good_
 
