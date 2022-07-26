@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: druid
+tag: Abjuration
+classes: Druid
          ranger
 title: Pass without Trace 
 ---

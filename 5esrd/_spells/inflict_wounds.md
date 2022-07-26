@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: necromancy
-classes: cleric
+tag: Necromancy
+classes: Cleric
 title: Inflict Wounds 
 ---
 _1st-level necromancy_ 

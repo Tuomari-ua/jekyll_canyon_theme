@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: cleric
+tag: Conjuration
+classes: Cleric
 title: Word of Recall 
 ---
 _6th-level conjuration_ 

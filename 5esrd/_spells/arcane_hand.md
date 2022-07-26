@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: wizard
+tag: Evocation
+classes: Wizard
 title: Arcane Hand 
 ---
 _5th-level evocation_ 

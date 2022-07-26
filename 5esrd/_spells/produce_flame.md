@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: druid
+tag: Conjuration
+classes: Druid
 title: Produce Flame 
 ---
 _Conjuration cantrip_ 

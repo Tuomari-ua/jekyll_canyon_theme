@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: divination
-classes: druid
+tag: Divination
+classes: Druid
          ranger
 title: Commune with Nature 
 ---

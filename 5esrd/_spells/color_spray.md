@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: illusion
-classes: sorcerer
+tag: Illusion
+classes: Sorcerer
          wizard
 title: Color Spray 
 ---

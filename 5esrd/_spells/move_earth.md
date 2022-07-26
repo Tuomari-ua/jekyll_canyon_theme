@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: druid
+tag: Transmutation
+classes: Druid
          sorcerer
          wizard
 title: Move Earth 

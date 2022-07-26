@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: cleric
+tag: Conjuration
+classes: Cleric
          sorcerer
          wizard
 title: Gate 

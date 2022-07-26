@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: wizard
+tag: Conjuration
+classes: Wizard
 title: Black Tentacles 
 ---
 _4th-level conjuration_ 

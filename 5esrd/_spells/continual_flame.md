@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: cleric
+tag: Evocation
+classes: Cleric
          wizard
 title: Continual Flame 
 ---

@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: divination
-classes: cleric
+tag: Divination
+classes: Cleric
 title: Commune 
 ---
 _5th-level divination (ritual)_ 

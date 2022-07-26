@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: cleric
+tag: Evocation
+classes: Cleric
 title: Guiding Bolt 
 ---
 _1st-level evocation_ 

@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: enchantment
-classes: druid
+tag: Enchantment
+classes: Druid
          wizard
 title: Antipathy/Sympathy 
 ---

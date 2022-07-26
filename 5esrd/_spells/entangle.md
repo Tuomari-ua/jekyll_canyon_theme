@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: druid
+tag: Conjuration
+classes: Druid
 title: Entangle 
 ---
 _1st-level conjuration_ 

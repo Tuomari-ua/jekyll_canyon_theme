@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: cleric
+tag: Conjuration
+classes: Cleric
 title: Guardian of Faith 
 ---
 _4th-level conjuration_ 

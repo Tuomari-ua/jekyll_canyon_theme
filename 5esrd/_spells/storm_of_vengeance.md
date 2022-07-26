@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: druid
+tag: Conjuration
+classes: Druid
 title: Storm of Vengeance 
 ---
 _9th-level conjuration_ 

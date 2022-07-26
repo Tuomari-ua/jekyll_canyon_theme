@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: druid
+tag: Transmutation
+classes: Druid
 title: Reincarnate 
 ---
 _5th-level transmutation_ 

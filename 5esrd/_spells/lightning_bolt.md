@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: sorcerer
+tag: Evocation
+classes: Sorcerer
          wizard
 title: Lightning Bolt 
 ---

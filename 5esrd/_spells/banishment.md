@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: paladin
+tag: Abjuration
+classes: Paladin
          cleric
          sorcerer
          warlock

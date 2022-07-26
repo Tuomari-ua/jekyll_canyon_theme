@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: cleric
+tag: Abjuration
+classes: Cleric
 title: Beacon of Hope 
 ---
 _3rd-level abjuration_ 

@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: ranger
+tag: Abjuration
+classes: Ranger
          wizard
 title: Alarm 
 ---

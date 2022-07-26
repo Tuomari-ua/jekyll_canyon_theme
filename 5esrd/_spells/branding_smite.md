@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: paladin
+tag: Evocation
+classes: Paladin
 title: Branding Smite
 ---
 _2nd-level evocation_

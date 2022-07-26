@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: warlock
+tag: Evocation
+classes: Warlock
 title: Eldritch Blast 
 ---
 _Evocation cantrip_ 

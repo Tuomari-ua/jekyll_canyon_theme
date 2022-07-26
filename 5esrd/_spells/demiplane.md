@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: warlock
+tag: Conjuration
+classes: Warlock
          wizard
 title: Demiplane 
 ---

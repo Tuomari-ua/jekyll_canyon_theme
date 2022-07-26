@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: wizard
+tag: Evocation
+classes: Wizard
 title: Resilient Sphere 
 ---
 _4th-level evocation_ 

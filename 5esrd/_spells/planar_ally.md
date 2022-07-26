@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: cleric
+tag: Conjuration
+classes: Cleric
 title: Planar Ally 
 ---
 _6th-level conjuration_ 

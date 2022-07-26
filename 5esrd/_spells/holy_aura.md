@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: cleric
+tag: Abjuration
+classes: Cleric
 title: Holy Aura 
 ---
 _8th-level abjuration_ 

@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: illusion
-classes: wizard
+tag: Illusion
+classes: Wizard
 title: Phantom Steed 
 ---
 _3rd-level illusion (ritual)_ 

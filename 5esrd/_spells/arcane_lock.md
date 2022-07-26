@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: wizard
+tag: Abjuration
+classes: Wizard
 title: Arcane Lock 
 ---
 _2nd-level abjuration_ 

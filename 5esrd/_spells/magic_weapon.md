@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: paladin
+tag: Transmutation
+classes: Paladin
          wizard
 title: Magic Weapon 
 ---

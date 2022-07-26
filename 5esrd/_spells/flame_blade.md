@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: druid
+tag: Evocation
+classes: Druid
 title: Flame Blade 
 ---
 _2nd-level evocation_ 

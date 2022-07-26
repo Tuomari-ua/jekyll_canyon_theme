@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: wizard
+tag: Evocation
+classes: Wizard
 title: Acid Arrow 
 ---
 _2nd-level evocation_

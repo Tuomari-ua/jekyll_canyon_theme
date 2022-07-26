@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: necromancy
-classes: druid
+tag: Necromancy
+classes: Druid
          sorcerer
          warlock
          wizard

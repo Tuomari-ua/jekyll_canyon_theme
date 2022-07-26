@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: bard
+tag: Transmutation
+classes: Bard
          sorcerer
          warlock
          wizard

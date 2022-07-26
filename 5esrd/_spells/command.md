@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: enchantment
-classes: cleric
+tag: Enchantment
+classes: Cleric
          paladin
 title: Command 
 ---

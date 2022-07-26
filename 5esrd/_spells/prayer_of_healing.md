@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: cleric
+tag: Evocation
+classes: Cleric
 title: Prayer of Healing 
 ---
 _2nd-level evocation_ 

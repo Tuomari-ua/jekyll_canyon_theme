@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: sorcerer
+tag: Transmutation
+classes: Sorcerer
          wizard
 title: Levitate 
 ---

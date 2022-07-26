@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: druid
+tag: Conjuration
+classes: Druid
 title: Call Lightning 
 ---
 _3rd-level conjuration_ 

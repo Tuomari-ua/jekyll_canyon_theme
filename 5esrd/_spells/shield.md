@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: sorcerer
+tag: Abjuration
+classes: Sorcerer
          wizard
 title: Shield 
 ---

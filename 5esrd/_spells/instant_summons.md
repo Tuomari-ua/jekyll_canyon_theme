@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: wizard
+tag: Conjuration
+classes: Wizard
 title: Instant Summons 
 ---
 _6th-level conjuration (ritual)_ 

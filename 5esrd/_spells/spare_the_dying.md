@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: necromancy
-classes: cleric
+tag: Necromancy
+classes: Cleric
 title: Spare the Dying 
 ---
 _Necromancy cantrip_ 

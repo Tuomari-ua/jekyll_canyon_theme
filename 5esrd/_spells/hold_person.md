@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: enchantment
-classes: bard
+tag: Enchantment
+classes: Bard
          cleric
          druid
          sorcerer

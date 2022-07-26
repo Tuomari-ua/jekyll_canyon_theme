@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: divination
-classes: warlock
+tag: Divination
+classes: Warlock
          wizard
 title: Contact Other Plane 
 ---

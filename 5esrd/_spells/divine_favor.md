@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: paladin
+tag: Evocation
+classes: Paladin
 title: Divine Favor 
 ---
 _1st-level evocation_ 

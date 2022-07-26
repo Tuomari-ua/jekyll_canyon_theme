@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: necromancy
-classes: bard
+tag: Necromancy
+classes: Bard
          cleric
          paladin
 title: Raise Dead 

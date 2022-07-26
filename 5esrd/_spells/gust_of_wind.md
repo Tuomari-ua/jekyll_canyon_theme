@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: druid
+tag: Evocation
+classes: Druid
          sorcerer
          wizard
 title: Gust of Wind 

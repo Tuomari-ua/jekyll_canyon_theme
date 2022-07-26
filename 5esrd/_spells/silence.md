@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: illusion
-classes: bard
+tag: Illusion
+classes: Bard
          cleric
          ranger
 title: Silence 

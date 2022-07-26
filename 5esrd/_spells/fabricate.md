@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: transmutation
-classes: wizard
+tag: Transmutation
+classes: Wizard
 title: Fabricate 
 ---
 _4th-level transmutation_ 

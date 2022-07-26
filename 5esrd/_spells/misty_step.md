@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: sorcerer
+tag: Conjuration
+classes: Sorcerer
          warlock
          wizard
 title: Misty Step 

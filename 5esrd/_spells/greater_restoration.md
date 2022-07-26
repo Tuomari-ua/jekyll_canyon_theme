@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: abjuration
-classes: bard
+tag: Abjuration
+classes: Bard
          cleric
          druid
 title: Greater Restoration 

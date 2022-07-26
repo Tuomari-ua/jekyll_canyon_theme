@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: evocation
-classes: bard
+tag: Evocation
+classes: Bard
          cleric
          druid
          paladin

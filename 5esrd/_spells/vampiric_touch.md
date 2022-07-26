@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: necromancy
-classes: warlock
+tag: Necromancy
+classes: Warlock
          wizard
 title: Vampiric Touch 
 ---

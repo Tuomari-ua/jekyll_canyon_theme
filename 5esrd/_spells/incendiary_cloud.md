@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: sorcerer
+tag: Conjuration
+classes: Sorcerer
          wizard
 title: Incendiary Cloud 
 ---

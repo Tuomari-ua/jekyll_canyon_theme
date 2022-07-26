@@ -1,8 +1,8 @@
 ---
 category: spells
 layout: page
-tag: conjuration
-classes: bard
+tag: Conjuration
+classes: Bard
          warlock
          wizard
 title: Unseen Servant 
