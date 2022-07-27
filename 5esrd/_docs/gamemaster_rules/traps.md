@@ -37,6 +37,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels. 
 
 #### Trap Save DCs and Attack Bonuses
+
 | Trap Danger | Save DC | Attack Bonus |
 |-------------|---------|--------------|
 | Setback     | 10-11   | +3 to +5     |
@@ -44,6 +45,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Deadly      | 16-20   | +9 to +12    |
 
 #### Damage Severity by Level
+
 | Character Level | Setback | Dangerous | Deadly |
 |-----------------|---------|-----------|--------|
 | 1st-4th         | 1d10    | 2d10      | 4d10   |

@@ -20,6 +20,7 @@ The robe has two of each of the following patches:
 
 In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly. 
 
+
 | d100  | Patch                                                                                                                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-08 | Bag of 100 gp                                                                                                                                                                                     |

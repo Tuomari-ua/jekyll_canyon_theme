@@ -13,6 +13,7 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An **_identify_** spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly. 
 
+
 | d100  | Contents          |
 |-------|-------------------|
 | 1-50  | Empty             |

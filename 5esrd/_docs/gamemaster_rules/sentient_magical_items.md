@@ -18,6 +18,7 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 ### Communication 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table. 
 
+
 | d100  | Communication |
 |-------|---------------|
 | 01-60 | The item communicates by transmitting emotion to the creature carrying or wielding it. |
@@ -37,6 +38,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 ### Alignment 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table. 
+
 
 | d100  | Alignment       |
 |-------|-----------------|

@@ -17,6 +17,7 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the **_gate_** spell, or an extradimensional space, such as that within a **portable hole**, the GM determines randomly what happens, using the following table. 
 
+
 | d100  | Result                                                                                                                             |
 |-------|------------------------------------------------------------------------------------------------------------------------------------|
 | 01-50 | The sphere is destroyed.                                                                                                           |

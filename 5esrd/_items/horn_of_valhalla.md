@@ -11,6 +11,7 @@ You can use an action to blow this horn. In response, warrior spirits from the V
 
 Four types of **horn of Valhalla** are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly. 
 
+
 | d100  | Horn Type | Berserkers Summoned | Requirement                          |
 |-------|-----------|---------------------|--------------------------------------|
 | 01-40 | Silver    | 2d4 + 2             | None                                 |

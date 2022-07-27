@@ -9,6 +9,7 @@ _Wondrous item, rare_
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly. 
 
+
 | d100  | Feather Token |
 |-------|---------------|
 | 01-20 | Anchor        |

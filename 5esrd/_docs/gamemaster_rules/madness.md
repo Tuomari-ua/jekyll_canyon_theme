@@ -21,6 +21,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ### Short-Term Madness
 
+
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
 | 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
@@ -35,6 +36,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91-100 | The character falls unconscious.                                                                                             |
 
 ### Long-Term Madness
+
 
 | d100   | Effect (lasts 1d10 x 10 hours)                                                                                                                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,6 +54,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
 ### Indefinite Madness
+
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 01-15  | "Being drunk keeps me sane."                                                                                                             |

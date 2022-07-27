@@ -11,6 +11,7 @@ This painted brass bottle weighs 1 pound. When you use an action to remove the s
 
 The first time the bottle is opened, the GM rolls to determine what happens. 
 
+
 | d100  | Effect                                                                                                        |
 |-------|---------------------------------------------------------------------------------------------------------------|
 | 01-10 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic. |
