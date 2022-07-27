@@ -8,6 +8,7 @@ An ability check tests a character's or monster's innate talent and training in 
 For every ability check, the GM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
 #### Typical Difficulty Classes
+
 | Task Difficulty   | DC |
 |-------------------|----| 
 | Very easy         | 5  |
