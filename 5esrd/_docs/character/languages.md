@@ -10,6 +10,7 @@ Choose your languages from the Standard Languages table, or choose one that is c
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
 ### Standard Languages
+
 | Language   | Typical Speakers  | Script   |
 |------------|-------------------|----------|
 | Common     | Humans            | Common   |
@@ -22,6 +23,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Orc        | Orcs              | Dwarvish |
 
 ### Exotic Languages
+
 | Language    | Typical Speakers    | Script    |
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |

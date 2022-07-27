@@ -24,6 +24,7 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
 ### Celtic Deities
+
 | Deity                                             | Alignment  | Suggested Domains       | Symbol                                |
 |---------------------------------------------------|------------|-------------------------|---------------------------------------|
 | The Daghdha, god of weather and crops             | CG         | Nature, Trickery        | Bubbling cauldron or shield           |
@@ -42,6 +43,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Silvanus, god of nature and forests               | N          | Nature                  | Summer oak tree                       |
 
 ### Greek Deities
+
 | Deity                                             | Alignment  | Suggested Domains       | Symbol                                |
 |---------------------------------------------------|------------|-------------------------|---------------------------------------|
 | Zeus, god of the sky, ruler of the gods           | N          | Tempest                 | Fist full of lightning bolts          |
@@ -65,6 +67,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Tyche, goddess of good fortune                    | N          | Trickery                | Red pentagram                         |
 
 ### Egyptian Deities
+
 | Deity                                             | Alignment  | Suggested Domains        | Symbol                                |
 |---------------------------------------------------|------------|--------------------------|---------------------------------------|
 | Re-Horakhty, god of the sun, ruler of the gods    | LG         | Life, Light              | Solar disk encircled by serpent       |
@@ -83,6 +86,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Thoth, god of knowledge and wisdom                | N          | Knowledge                | Ibis                                  |
 
 ### Norse Deities
+
 | Deity                                             | Alignment  | Suggested Domains        | Symbol                                |
 |---------------------------------------------------|------------|--------------------------|---------------------------------------|
 | Odin, god of knowledge and war                    | NG         | Knowledge, War           | Watching blue eye                     |

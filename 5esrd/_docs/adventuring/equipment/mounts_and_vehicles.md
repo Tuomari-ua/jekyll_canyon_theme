@@ -18,7 +18,8 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 **Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
 ## Mounts
-| Item           | Cost   | Speed  | Carrying Capacity |
+
+| Item            | Cost   | Speed  | Carrying Capacity |
 |----------------|-------:|--------|-------------------|
 | Camel          | 50 gp  | 50 ft. | 480 lb.           |
 | Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
@@ -30,7 +31,8 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
 
 ## Tack, Harness, and Drawn Vehicles
-| Item                | Cost   | Weight  |
+
+| Item                 | Cost   | Weight  |
 |---------------------|-------:|--------:|
 | Barding             | x4     | x2      |
 | Bit and bridle      | 2 gp   | 1 lb.   |
@@ -44,7 +46,8 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Wagon               | 35 gp  | 400 lb. |
 
 ## Saddles
-| Item     | Cost  | Weight |
+
+| Item      | Cost  | Weight |
 |----------|------:|-------:|
 | Exotic   | 60 gp | 40 lb. |
 | Military | 20 gp | 30 lb. |
@@ -52,7 +55,8 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Riding   | 10 gp | 25 lb. |
 
 ## Waterborne Vehicles
-| Item         | Cost      | Speed      |
+
+| Item          | Cost      | Speed      |
 |--------------|----------:|------------|
 | Galley       | 30,000 gp | 4 mph      |
 | Keelboat     | 3,000 gp  | 1 mph      |

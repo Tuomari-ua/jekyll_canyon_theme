@@ -16,7 +16,8 @@ Poisons come in the following four types.
 **Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. 
 
 
-| Item               | Type      | Price per Dose |
+
+| Item                | Type      | Price per Dose |
 |--------------------|-----------|----------------|
 | Assassin's blood   | Ingested  | 150 gp         |
 | Burnt othur fumes  | Inhaled   | 500 gp         |

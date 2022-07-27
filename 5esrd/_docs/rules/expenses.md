@@ -46,7 +46,8 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 **Food and Drink**
 
-| Item                   | Cost  |
+
+| Item                    | Cost  |
 |------------------------|------:|
 | Ale (gallon)           | 2 sp  |
 | Ale (mug)              | 4 cp  |
@@ -59,7 +60,8 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 **Meals and Lodging (per day)**
 
-| Item         | Meals Cost | Lodging Cost |
+
+| Item          | Meals Cost | Lodging Cost |
 |--------------|-----------:|-------------:|
 | Squalid      | 3 cp       | 7 cp         |
 | Poor         | 6 cp       | 1 sp         |

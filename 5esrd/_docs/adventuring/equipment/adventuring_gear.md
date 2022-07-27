@@ -92,7 +92,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 ## Adventuring Gear Tables
 ### Ammunition
-| Item                 | Cost | Weight    |
+
+| Item                  | Cost | Weight    |
 |----------------------|------|-----------|
 | Arrows (20)          | 1 gp | 1 lb.     |
 | Blowgun needles (50) | 1 gp | 1 lb.     |
@@ -100,7 +101,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Sling bullets (20)   | 4 cp | 1 1/2 lb. |
 
 ### Arcane focus
-| Item    | Cost  | Weight |
+
+| Item     | Cost  | Weight |
 |---------|-------|--------|
 | Crystal | 10 gp | 1 lb.  |
 | Orb     | 20 gp | 3 lb.  |
@@ -109,7 +111,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Wand    | 10 gp | 1 lb.  |
 
 ### Druidic focus
-| Item               | Cost  | Weight |
+
+| Item                | Cost  | Weight |
 |--------------------|-------|--------|
 | Sprig of mistletoe | 1 gp  | -      |
 | Totem              | 1 gp  | -      |
@@ -117,14 +120,16 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Yew wand           | 10 gp | 1 lb.  |
 
 ### Holy Symbol
-| Item      | Cost  | Weight |
+
+| Item       | Cost  | Weight |
 |-----------|-------|--------|
 | Amulet    | 5 gp  | 1 lb.  |
 | Emblem    | 5 gp  | -      |
 | Reliquary | 5 gp  | 2 lb.  |
 
 ### Adventuring Gear
-| Item                         | Cost     | Weight       |
+
+| Item                          | Cost     | Weight       |
 |------------------------------|----------|--------------|
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
