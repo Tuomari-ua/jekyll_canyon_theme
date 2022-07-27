@@ -6,7 +6,7 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 
-    {% assign arrs = "bard, cleric, druid, paladin, ranger, sorcerer, warlock, wizard" | split: ", " %}
+    {% assign arrs = "barbarian, bard, cleric, druid, fighter, monk, paladin, ranger, rogue, sorcerer, warlock, wizard" | split: ", " %}
     {% assign sortedPosts = site.spells | sort: 'title' %}
       {% for item in arrs %}
       <h3>   {% case item %}
