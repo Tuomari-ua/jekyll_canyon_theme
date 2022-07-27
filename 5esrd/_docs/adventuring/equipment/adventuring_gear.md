@@ -216,7 +216,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Whetstone                    | 1 cp     | 1 lb.        | 
 
 ## Container Capacity
-| Container        | Capacity                               |
+
+| Containet        | Capacity                               |
 |------------------|----------------------------------------|
 | Backpack*        | 1 cubic foot/30 pounds of gear         |
 | Barrel           | 40 gallons liquid, 4 cubic feet solid  |
