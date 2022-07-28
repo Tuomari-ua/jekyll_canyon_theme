@@ -106,7 +106,6 @@ h4 {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
 }
 .masthead-title {
   margin-top: 0;
@@ -468,6 +467,9 @@ a.pagination-item:hover {
 .theme-base-08 h4 {
   color: #d35353;
 }
+.theme-base-08 .masthead {
+  border-bottom: 3px solid #d35353;
+}
 
 /* Orange */
 .theme-base-09 .sidebar,
@@ -515,6 +517,9 @@ a.pagination-item:hover {
 }
 .theme-base-0b h4 {
   color: #04c250;
+}
+.theme-base-0b .masthead {
+  border-bottom: 3px solid #005522;
 }
 
 /* Cyan */
