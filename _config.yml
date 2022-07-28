@@ -1,5 +1,5 @@
 # Setup
-title:               5e українською
+title:               5E УКРАЇНСЬКОЮ
 tagline:             'Довідник з правил 5e'
 description:         'Переклад <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Source Reference Document</a> на основі <a href="https://en.wikipedia.org/wiki/Open_Game_License" target="_blank">Open Game License v.1.0a</a>.'
 url:                 ''
@@ -35,16 +35,16 @@ collections:
     output: true
 
 # Social links
-twitter_username: 
-github_username:  jekyll
+twitter_username: nyurch
+github_username:  nyurch
 stackoverflow_username: 
 dribbble_username: 
-facebook_username: jekyll
+facebook_username: nyurch
 flickr_username: 
 instagram_username: 
-linkedin_username: 
+linkedin_username: nyurch
 xing_username: 
 pinterest_username: 
-youtube_username: 
+youtube_username: nyurch
 orcid_username: 
 googlescholar_username: 
