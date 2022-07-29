@@ -594,3 +594,29 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Social icons color 
+ *
+ */
+
+.fa-youtube:hover {
+color: #FF0000;
+}
+.fa-github:hover {
+color: #000000;
+}
+.fa-facebook:hover {
+color: #4267B2;
+}
+.fa-twitter:hover {
+color: #1DA1F2;
+}
+.fa-linkedin:hover {
+color: #0072b1;
+}
+.fa-instagram:hover {
+color: #8a3ab9;
+}
+.fa-google:hover {
+color: #f4b400;
+}
