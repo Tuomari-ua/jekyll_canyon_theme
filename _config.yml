@@ -7,6 +7,7 @@ baseurl:             '/jekyll_canyon_theme'
 host:                0.0.0.0
 #paginate:            5
 #permalink:           pretty
+timezone:             Europe/Kiev
 
 # About/contact
 author:
