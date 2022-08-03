@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Descriptions of different conditions affecting players and creatures from the 5th Edition (5e) SRD (System Reference Document).
 title: Conditions 

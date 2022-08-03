@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Information on the Charisma ability from the 5th Edition (5e) System Reference Document (SRD)
 title: Charisma 

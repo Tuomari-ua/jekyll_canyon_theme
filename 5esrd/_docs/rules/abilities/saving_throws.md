@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Rules for saving throws from the 5th Edition (5e) System Reference Document (SRD)
 title: Saving Throws 

@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).
 title: Between Adventures 

@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Information on the Strength ability from the 5th Edition (5e) System Reference Document (SRD)
 title: Strength 

@@ -1,5 +1,4 @@
 ---
-toc: true
 category: items
 layout: page
 name: Philter of Love

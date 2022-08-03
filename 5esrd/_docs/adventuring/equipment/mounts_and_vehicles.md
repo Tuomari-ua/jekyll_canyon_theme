@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Rules and information for different mounts and vehicles from the 5th Edition (5e) SRD (System Reference Document).
 title: Mounts and Vehicles

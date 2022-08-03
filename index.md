@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 category: index
 keywords: 5e українською

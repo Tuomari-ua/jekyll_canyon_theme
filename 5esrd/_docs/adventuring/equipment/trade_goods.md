@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Information about different trade goods from the 5th Edition (5e) SRD (System Reference Document).
 title: Trade Goods

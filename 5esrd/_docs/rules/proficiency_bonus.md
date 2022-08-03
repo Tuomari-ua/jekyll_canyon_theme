@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: How to use a proficiency bonus from the 5th Edition (5e) SRD (System Reference Document).
 title: Proficiency Bonus 
