@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 category: monsters
 title: Adult Green Dragon

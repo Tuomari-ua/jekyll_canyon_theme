@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules for tracking damage, death and healing from the 5th Edition (5e) SRD (System Reference Document).
 title: Damage and Healing 

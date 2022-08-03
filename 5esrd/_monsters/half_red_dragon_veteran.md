@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 category: monsters
 title: Half-Red Dragon Veteran

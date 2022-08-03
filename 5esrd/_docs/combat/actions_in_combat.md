@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Descriptions of different actions that can be taken in combat from the 5th Edition (5e) SRD (System Reference Document).
 title: Actions in Combat 

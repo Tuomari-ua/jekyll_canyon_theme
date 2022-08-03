@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Ability descriptions and modifier rules from the 5th Edition (5e) System Reference Document (SRD)
 title: Ability Scores 

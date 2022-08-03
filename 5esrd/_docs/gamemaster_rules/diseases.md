@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules and descriptions for diseases from the 5th Edition (5e) SRD (System Reference Document).
 title: Diseases 

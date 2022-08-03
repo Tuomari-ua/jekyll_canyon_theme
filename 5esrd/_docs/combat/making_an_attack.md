@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules for making an attack from the 5th Edition (5e) SRD (System Reference Document).
 title: Making an Attack 

@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Descriptions of the different planes of existence from the 5th Edition (5e) SRD (System Reference Document).
 title: The Planes of Existence 

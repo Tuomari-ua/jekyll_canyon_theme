@@ -1,4 +1,5 @@
 ---
+toc: true
 category: items
 layout: page
 name: Amulet of the Planes

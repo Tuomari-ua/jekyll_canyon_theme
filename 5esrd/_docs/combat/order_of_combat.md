@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules for the order of combat and possible actions from the 5th Edition (5e) SRD (System Reference Document).
 title: The Order of Combat 

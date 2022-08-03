@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 category: monsters
 title: Tribal Warrior

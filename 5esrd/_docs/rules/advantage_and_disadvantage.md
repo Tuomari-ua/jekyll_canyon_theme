@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules describing the advantage and disadvantage system from the 5th Edition (5e) SRD (System Reference Document).
 title: Advantage and Disadvantage 

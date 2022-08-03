@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: General rules for magic items, including attunement, from the 5th Edition (5e) SRD (System Reference Document).
 title: Magic Items 

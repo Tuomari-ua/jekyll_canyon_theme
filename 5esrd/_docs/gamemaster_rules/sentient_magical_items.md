@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules and information for creating sentient magic items from the 5th Edition (5e) SRD (System Reference Document).
 title: Sentient Magic Items 

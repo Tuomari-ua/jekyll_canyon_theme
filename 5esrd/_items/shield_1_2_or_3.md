@@ -1,4 +1,5 @@
 ---
+toc: true
 category: items
 layout: page
 name: Shield, +1, +2, or +3

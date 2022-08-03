@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules, including lairs and actions, for legendary creatures from the 5th Edition (5e) SRD (System Reference Document).
 title: Legendary Creatures 

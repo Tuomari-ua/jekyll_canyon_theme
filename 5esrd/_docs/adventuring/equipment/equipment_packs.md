@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: A list of prebuilt equipment packs for characters from the 5th Edition (5e) SRD (System Reference Document).
 title: Equipment packs

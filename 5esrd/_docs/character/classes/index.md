@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 title: Класи персонажів
 ---
