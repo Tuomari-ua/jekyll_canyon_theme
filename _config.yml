@@ -3,7 +3,7 @@ title:               5E УКРАЇНСЬКОЮ
 tagline:             'Довідник з правил 5e'
 description:         'Переклад <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Source Reference Document</a> на основі <a href="https://en.wikipedia.org/wiki/Open_Game_License" target="_blank">Open Game License v.1.0a</a>.'
 url:                 ''
-baseurl:             '/jekyll_canyon_theme'
+baseurl:             ''
 host:                0.0.0.0
 #paginate:            5
 #permalink:           pretty
@@ -16,8 +16,8 @@ author:
   email:             robort.bender@gmail.com
 
 # Gems
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
 
 # Custom vars
 version:             1.0.0
@@ -49,3 +49,12 @@ pinterest_username:
 youtube_username: boo
 orcid_username: 
 googlescholar_username: boo
+
+jekyll_admin:
+  hidden_links:
+    - posts
+#    - pages
+#    - staticfiles
+    - datafiles
+#    - configuration
+#  homepage: "pages"
