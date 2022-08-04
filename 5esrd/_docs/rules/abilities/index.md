@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 title: Правила
 ---
 * [Advantage and Disadvantage]({{site.baseurl}}/docs/rules/advantage_and_disadvantage.html)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 title: Класи персонажів
 ---
 * [Bard]({{site.baseurl}}/docs/character/classes/bard.html)
