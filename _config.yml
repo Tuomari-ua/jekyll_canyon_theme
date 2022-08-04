@@ -16,7 +16,7 @@ author:
   email:             robort.bender@gmail.com
 
 # Gems
-plugins:
+#plugins:
 #  - jekyll-paginate
 #  - jekyll-toc
 

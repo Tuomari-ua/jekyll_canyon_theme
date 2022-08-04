@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Rules governing inspiration from the 5th Edition (5e) SRD (System Reference Document).
 title: Inspiration 

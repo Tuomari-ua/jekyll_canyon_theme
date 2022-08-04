@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Rule for making ability checks, contents, group and passive checks from the 5th Edition (5e) System Reference Document (SRD)
 title: Ability Checks 

@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 category: monsters
 title: Druid

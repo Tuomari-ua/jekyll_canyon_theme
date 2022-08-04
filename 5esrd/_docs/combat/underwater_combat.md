@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: Правила для битв під водою за 5th Edition (5e) SRD (System Reference Document).
 title: Підводна битва 

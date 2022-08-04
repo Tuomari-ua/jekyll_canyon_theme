@@ -1,5 +1,4 @@
 ---
-toc: true
 category: items
 layout: page
 name: Armor, +1, +2, or +3

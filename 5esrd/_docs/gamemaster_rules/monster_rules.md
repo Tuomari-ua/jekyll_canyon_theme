@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: page
 description: General rules and descriptions for monsters from the 5th Edition (5e) SRD (System Reference Document).
 title: Monster Rules
