@@ -436,6 +436,16 @@ a.pagination-item:hover {
           transform: translateX(-14rem);
 }
 
+/*
+ * Search
+ */
+
+input {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: 1px solid transparent;
+}
 
 /*
  * Themes
@@ -470,8 +480,8 @@ a.pagination-item:hover {
 .theme-base-08 .masthead {
   border-bottom: 3px solid #d35353;
 }
-.theme-base-0b a:hover,
-.theme-base-0b a:focus {
+.theme-base-08 a:hover,
+.theme-base-08 a:focus {
   color: #d35353;
 }
 
