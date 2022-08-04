@@ -1,11 +1,9 @@
 ---
 layout: default
+title: Чари за школами
 ---
-
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-
 {% assign tags =  site.spells | map: 'tags' | uniq | sort: tag %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
@@ -17,5 +15,4 @@ layout: default
   {% endfor %}
   </ul>
 {% endfor %}
-
 </div>
