@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Bandit Captain
 type: Humanoid (any race)

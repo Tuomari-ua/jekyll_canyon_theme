@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Gnome, Deep (Svirfneblin)
 type: Humanoid (gnome)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Swarm of Quippers
 type: Swarm of Tiny beasts

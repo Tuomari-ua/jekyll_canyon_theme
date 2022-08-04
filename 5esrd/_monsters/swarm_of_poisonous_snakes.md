@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Swarm of Poisonous Snakes
 type: Swarm of Tiny beasts

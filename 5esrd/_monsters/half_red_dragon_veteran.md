@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Half-Red Dragon Veteran
 type: Humanoid (human)

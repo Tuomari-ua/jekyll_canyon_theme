@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Werewolf
 type: Humanoid (human, shapechanger)

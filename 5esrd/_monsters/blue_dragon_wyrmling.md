@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Blue Dragon Wyrmling
 type: Dragon

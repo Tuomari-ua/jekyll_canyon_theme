@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Swarm of Insects
 type: Swarm of Tiny beasts

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nontoc
 category: monsters
 title: Silver Dragon Wyrmling
 type: Dragon
