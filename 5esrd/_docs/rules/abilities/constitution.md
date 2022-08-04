@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Information on the Constitution ability from the 5th Edition (5e) System Reference Document (SRD)
 title: Constitution 

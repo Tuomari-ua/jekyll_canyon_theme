@@ -1,4 +1,5 @@
 ---
+toc: true
 category: spells
 layout: page
 tag: Conjuration

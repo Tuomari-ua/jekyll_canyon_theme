@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: General information about spells from the 5th Edition (5e) SRD (System Reference Document).
 title: What Is a Spell? 

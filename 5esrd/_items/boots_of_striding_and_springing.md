@@ -1,4 +1,5 @@
 ---
+toc: true
 category: items
 layout: page
 name: Boots of Striding and Springing

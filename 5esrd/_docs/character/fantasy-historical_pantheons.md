@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Descriptions of different fantasy and historical pantheons from the 5th Edition (5e) SRD (System Reference Document).
 title: Fantasy-Historical Pantheons 

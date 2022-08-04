@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: page
 description: Rules for leveling up a character from the 5th Edition (5e) SRD (System Reference Document).
 title: Leveling Up
