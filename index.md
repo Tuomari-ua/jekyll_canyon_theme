@@ -20,4 +20,4 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 - Ariedov
 - nyurch
 
-Cписок доповнюється
+Cписок доповнюється...
