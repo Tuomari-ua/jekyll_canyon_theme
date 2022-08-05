@@ -539,6 +539,33 @@ input {
 .theme-base-0b a:focus {
   color: #04c250;
 }
+.theme-base-0b .fa-youtube:hover {
+color: #005522;
+}
+.theme-base-0b .fa-github:hover {
+color: #005522;
+}
+.theme-base-0b .fa-facebook:hover {
+color: #005522;
+}
+.theme-base-0b .fa-twitter:hover {
+color: #005522;
+}
+.theme-base-0b .fa-linkedin:hover {
+color: #005522;
+}
+.theme-base-0b .fa-instagram:hover {
+color: #005522;
+}
+.theme-base-0b .fa-google:hover {
+color: #005522;
+}
+.theme-base-0b .fa-telegram:hover {
+color: #005522;
+}
+.theme-base-0b .fa-discord:hover {
+color: #005522;
+}
 
 /* Cyan */
 .theme-base-0c .sidebar,
@@ -617,24 +644,30 @@ input {
  *
  */
 
-.fa-youtube:hover {
+.fa-youtube {
 color: #FF0000;
 }
-.fa-github:hover {
+.fa-github {
 color: #000000;
 }
-.fa-facebook:hover {
+.fa-facebook {
 color: #4267B2;
 }
-.fa-twitter:hover {
+.fa-twitter {
 color: #1DA1F2;
 }
-.fa-linkedin:hover {
+.fa-linkedin {
 color: #0072b1;
 }
-.fa-instagram:hover {
+.fa-instagram {
 color: #8a3ab9;
 }
-.fa-google:hover {
+.fa-google {
 color: #f4b400;
+}
+.fa-telegram {
+color: #2aabee;
+}
+.fa-discord {
+color: #7289da;
 }
