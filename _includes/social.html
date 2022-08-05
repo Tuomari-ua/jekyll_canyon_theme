@@ -63,6 +63,16 @@
               <i class="fab fa-2x fa-google" title="Google scholar link"></i>
             </a>
         {%- endif -%}
+        {%- if site.telegram_username -%}
+            <a target="_blank" href="https://t.me/{{ site.telegram_username| escape }}">
+              <i class="fab fa-2x fa-telegram" title="Telegram link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.discord_username -%}
+            <a target="_blank" href="https://discord.com/invite/{{ site.discord_username| escape }}">
+              <i class="fab fa-2x fa-discord" title="Discord link"></i>
+            </a>
+        {%- endif -%}
         {% for link in site.additional_links %}
             {% include a.html href=link.url %}
               <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
