@@ -566,6 +566,12 @@ color: #005522;
 .theme-base-0b .fa-discord:hover {
 color: #005522;
 }
+.theme-base-0b .fa-whatsapp:hover {
+color: #005522;
+}
+.theme-base-0b .fa-envelope:hover {
+color: #005522;
+}
 
 /* Cyan */
 .theme-base-0c .sidebar,
@@ -670,4 +676,10 @@ color: #2aabee;
 }
 .fa-discord {
 color: #7289da;
+}
+.fa-whatsapp {
+color: #25D366;
+}
+.fa-envelope {
+color: #BB001B;
 }
