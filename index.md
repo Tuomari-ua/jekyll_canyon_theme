@@ -23,8 +23,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 Cписок доповнюється...
 
 Поділитися:  
-[<i class="fab fa-2x fa-telegram" title="поділитися через Telegram"></i>](https://t.me/share/url?url={{site.url}}&text=5e українською) 
-[<i class="fab fa-2x fa-facebook" title="поділитися у Facebook"></i>](//www.facebook.com/sharer/sharer.php?u={{site.url}}&amp;quote=5e українською) 
-[<i class="fab fa-2x fa-whatsapp" title="поділитися у Whatsapp"></i>](whatsapp://send?text=5e українською%20{{site.url}}) 
-[<i class="fab fa-2x fa-viber" title="поділитися у Viber"></i>](viber://forward?text=5e українською%20{{site.url}}) 
+[<i class="fab fa-2x fa-telegram" title="поділитися через Telegram"></i>](https://t.me/share/url?url=https://5esrd.kyiv.ua&text=5e українською) 
+[<i class="fab fa-2x fa-facebook" title="поділитися у Facebook"></i>](//www.facebook.com/sharer/sharer.php?u=https://5esrd.kyiv.ua&amp;quote=5e українською) 
+[<i class="fab fa-2x fa-whatsapp" title="поділитися у Whatsapp"></i>](whatsapp://send?text=5e українською%20https://5esrd.kyiv.ua) 
+[<i class="fab fa-2x fa-viber" title="поділитися у Viber"></i>](viber://forward?text=5e українською%20https://5esrd.kyiv.ua) 
 [<i class="fa fa-2x fa-envelope" title="поділитися поштою"></i>](mailto:?subject=5e українською%20&body=https://5esrd.kyiv.ua)
