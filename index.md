@@ -27,4 +27,4 @@ Cписок доповнюється...
 [<i class="fab fa-2x fa-facebook" title="поділитися у Facebook"></i>](//www.facebook.com/sharer/sharer.php?u={{site.url}}&amp;quote=5e українською) 
 [<i class="fab fa-2x fa-whatsapp" title="поділитися у Whatsapp"></i>](whatsapp://send?text=5e українською%20{{site.url}}) 
 [<i class="fab fa-2x fa-viber" title="поділитися у Viber"></i>](viber://forward?text=5e українською%20{{site.url}}) 
-[<i class="fa fa-2x fa-envelope" title="поділитися поштою"></i>](mailto:?subject={{site.url}}&body=5e українською)
+[<i class="fa fa-2x fa-envelope" title="поділитися поштою"></i>](mailto:?subject=5e українською%20&body=https://5esrd.kyiv.ua)
