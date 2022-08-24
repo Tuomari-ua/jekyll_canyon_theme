@@ -572,6 +572,9 @@ color: #005522;
 .theme-base-0b .fa-envelope:hover {
 color: #005522;
 }
+.theme-base-0b .fa-viber:hover {
+color: #005522;
+}
 
 /* Cyan */
 .theme-base-0c .sidebar,
@@ -682,4 +685,7 @@ color: #25D366;
 }
 .fa-envelope {
 color: #BB001B;
+}
+.fa-viber {
+color: #59267c;
 }
