@@ -17,9 +17,8 @@ author:
   email:             robort.bender@gmail.com
 
 # Gems
-#plugins:
-#  - jekyll-paginate
-#  - jekyll-toc
+plugins:
+  - jekyll-relative-links
 
 # Custom vars
 version:             1.0.0
